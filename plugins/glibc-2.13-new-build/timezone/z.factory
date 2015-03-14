@@ -1,0 +1,16 @@
+define factory-zones
+Factory
+endef
+factory-zones := $(subst $(nl), ,$(factory-zones))
+ifdef factory-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(factory-zones)): \
+factory $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(factory-zones)): \
+factory $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(factory-zones)): \
+factory $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(factory-zones)

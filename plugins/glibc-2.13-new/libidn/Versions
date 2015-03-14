@@ -1,0 +1,6 @@
+libcidn {
+  PEMU_LIBC_PRIVATE {
+    idna_to_ascii_lz;
+    idna_to_unicode_lzlz;
+  }
+}

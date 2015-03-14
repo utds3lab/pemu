@@ -1,0 +1,5 @@
+librt {
+  PEMU_LIBC_2.4 {
+    lio_listio; lio_listio64;
+  }
+}

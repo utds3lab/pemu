@@ -1,0 +1,82 @@
+define asia-zones
+Asia/Kabul
+Asia/Yerevan
+Asia/Baku
+Asia/Bahrain
+Asia/Dhaka
+Asia/Thimphu
+Indian/Chagos
+Asia/Brunei
+Asia/Rangoon
+Asia/Phnom_Penh
+Asia/Harbin
+Asia/Shanghai
+Asia/Chongqing
+Asia/Urumqi
+Asia/Kashgar
+Asia/Hong_Kong
+Asia/Taipei
+Asia/Macau
+Asia/Nicosia
+Europe/Nicosia
+Asia/Tbilisi
+Asia/Dili
+Asia/Kolkata
+Asia/Jakarta
+Asia/Pontianak
+Asia/Makassar
+Asia/Jayapura
+Asia/Tehran
+Asia/Baghdad
+Asia/Jerusalem
+Asia/Tokyo
+Asia/Amman
+Asia/Almaty
+Asia/Qyzylorda
+Asia/Aqtobe
+Asia/Aqtau
+Asia/Oral
+Asia/Bishkek
+Asia/Seoul
+Asia/Pyongyang
+Asia/Kuwait
+Asia/Vientiane
+Asia/Beirut
+Asia/Kuala_Lumpur
+Asia/Kuching
+Indian/Maldives
+Asia/Hovd
+Asia/Ulaanbaatar
+Asia/Choibalsan
+Asia/Kathmandu
+Asia/Muscat
+Asia/Karachi
+Asia/Gaza
+Asia/Manila
+Asia/Qatar
+Asia/Riyadh
+Asia/Singapore
+Asia/Colombo
+Asia/Damascus
+Asia/Dushanbe
+Asia/Bangkok
+Asia/Ashgabat
+Asia/Dubai
+Asia/Samarkand
+Asia/Tashkent
+Asia/Ho_Chi_Minh
+Asia/Aden
+endef
+asia-zones := $(subst $(nl), ,$(asia-zones))
+ifdef asia-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(asia-zones)): \
+asia $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(asia-zones)): \
+asia $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(asia-zones)): \
+asia $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(asia-zones)

@@ -1,0 +1,752 @@
+ISO8859-1-routines := iso8859-1
+ISO8859-1-map := gconv.map
+ISO8859-2-routines := iso8859-2
+ISO8859-2-map := gconv.map
+ISO8859-3-routines := iso8859-3
+ISO8859-3-map := gconv.map
+ISO8859-4-routines := iso8859-4
+ISO8859-4-map := gconv.map
+ISO8859-5-routines := iso8859-5
+ISO8859-5-map := gconv.map
+ISO8859-6-routines := iso8859-6
+ISO8859-6-map := gconv.map
+ISO8859-7-routines := iso8859-7
+ISO8859-7-map := gconv.map
+ISO8859-8-routines := iso8859-8
+ISO8859-8-map := gconv.map
+ISO8859-9-routines := iso8859-9
+ISO8859-9-map := gconv.map
+ISO8859-10-routines := iso8859-10
+ISO8859-10-map := gconv.map
+ISO8859-11-routines := iso8859-11
+ISO8859-11-map := gconv.map
+ISO8859-13-routines := iso8859-13
+ISO8859-13-map := gconv.map
+ISO8859-14-routines := iso8859-14
+ISO8859-14-map := gconv.map
+ISO8859-15-routines := iso8859-15
+ISO8859-15-map := gconv.map
+ISO8859-16-routines := iso8859-16
+ISO8859-16-map := gconv.map
+T.61-routines := t.61
+T.61-map := gconv.map
+ISO_6937-routines := iso_6937
+ISO_6937-map := gconv.map
+SJIS-routines := sjis
+SJIS-map := gconv.map
+KOI-8-routines := koi-8
+KOI-8-map := gconv.map
+HP-ROMAN8-routines := hp-roman8
+HP-ROMAN8-map := gconv.map
+HP-ROMAN9-routines := hp-roman9
+HP-ROMAN9-map := gconv.map
+EBCDIC-AT-DE-routines := ebcdic-at-de
+EBCDIC-AT-DE-map := gconv.map
+EBCDIC-AT-DE-A-routines := ebcdic-at-de-a
+EBCDIC-AT-DE-A-map := gconv.map
+EBCDIC-CA-FR-routines := ebcdic-ca-fr
+EBCDIC-CA-FR-map := gconv.map
+EUC-KR-routines := euc-kr
+EUC-KR-map := gconv.map
+UHC-routines := uhc
+UHC-map := gconv.map
+JOHAB-routines := johab
+JOHAB-map := gconv.map
+BIG5-routines := big5
+BIG5-map := gconv.map
+EUC-JP-routines := euc-jp
+EUC-JP-map := gconv.map
+EUC-CN-routines := euc-cn
+EUC-CN-map := gconv.map
+EUC-TW-routines := euc-tw
+EUC-TW-map := gconv.map
+ISO646-routines := iso646
+ISO646-map := gconv.map
+EBCDIC-DK-NO-routines := ebcdic-dk-no
+EBCDIC-DK-NO-map := gconv.map
+EBCDIC-DK-NO-A-routines := ebcdic-dk-no-a
+EBCDIC-DK-NO-A-map := gconv.map
+EBCDIC-ES-routines := ebcdic-es
+EBCDIC-ES-map := gconv.map
+EBCDIC-ES-A-routines := ebcdic-es-a
+EBCDIC-ES-A-map := gconv.map
+EBCDIC-ES-S-routines := ebcdic-es-s
+EBCDIC-ES-S-map := gconv.map
+EBCDIC-FI-SE-routines := ebcdic-fi-se
+EBCDIC-FI-SE-map := gconv.map
+EBCDIC-FI-SE-A-routines := ebcdic-fi-se-a
+EBCDIC-FI-SE-A-map := gconv.map
+EBCDIC-FR-routines := ebcdic-fr
+EBCDIC-FR-map := gconv.map
+EBCDIC-IS-FRISS-routines := ebcdic-is-friss
+EBCDIC-IS-FRISS-map := gconv.map
+EBCDIC-IT-routines := ebcdic-it
+EBCDIC-IT-map := gconv.map
+EBCDIC-PT-routines := ebcdic-pt
+EBCDIC-PT-map := gconv.map
+EBCDIC-UK-routines := ebcdic-uk
+EBCDIC-UK-map := gconv.map
+EBCDIC-US-routines := ebcdic-us
+EBCDIC-US-map := gconv.map
+IBM037-routines := ibm037
+IBM037-map := gconv.map
+IBM038-routines := ibm038
+IBM038-map := gconv.map
+IBM274-routines := ibm274
+IBM274-map := gconv.map
+IBM275-routines := ibm275
+IBM275-map := gconv.map
+IBM423-routines := ibm423
+IBM423-map := gconv.map
+IBM500-routines := ibm500
+IBM500-map := gconv.map
+IBM870-routines := ibm870
+IBM870-map := gconv.map
+IBM871-routines := ibm871
+IBM871-map := gconv.map
+IBM891-routines := ibm891
+IBM891-map := gconv.map
+IBM903-routines := ibm903
+IBM903-map := gconv.map
+IBM904-routines := ibm904
+IBM904-map := gconv.map
+IBM905-routines := ibm905
+IBM905-map := gconv.map
+IBM1047-routines := ibm1047
+IBM1047-map := gconv.map
+IBM874-routines := ibm874
+IBM874-map := gconv.map
+CP737-routines := cp737
+CP737-map := gconv.map
+CP775-routines := cp775
+CP775-map := gconv.map
+ISO-2022-KR-routines := iso-2022-kr
+ISO-2022-KR-map := gconv.map
+HP-TURKISH8-routines := hp-turkish8
+HP-TURKISH8-map := gconv.map
+HP-THAI8-routines := hp-thai8
+HP-THAI8-map := gconv.map
+HP-GREEK8-routines := hp-greek8
+HP-GREEK8-map := gconv.map
+KOI8-R-routines := koi8-r
+KOI8-R-map := gconv.map
+LATIN-GREEK-routines := latin-greek
+LATIN-GREEK-map := gconv.map
+LATIN-GREEK-1-routines := latin-greek-1
+LATIN-GREEK-1-map := gconv.map
+IBM256-routines := ibm256
+IBM256-map := gconv.map
+IBM273-routines := ibm273
+IBM273-map := gconv.map
+IBM277-routines := ibm277
+IBM277-map := gconv.map
+IBM278-routines := ibm278
+IBM278-map := gconv.map
+IBM280-routines := ibm280
+IBM280-map := gconv.map
+IBM281-routines := ibm281
+IBM281-map := gconv.map
+IBM284-routines := ibm284
+IBM284-map := gconv.map
+IBM285-routines := ibm285
+IBM285-map := gconv.map
+IBM290-routines := ibm290
+IBM290-map := gconv.map
+IBM297-routines := ibm297
+IBM297-map := gconv.map
+IBM420-routines := ibm420
+IBM420-map := gconv.map
+IBM424-routines := ibm424
+IBM424-map := gconv.map
+IBM437-routines := ibm437
+IBM437-map := gconv.map
+IBM850-routines := ibm850
+IBM850-map := gconv.map
+IBM851-routines := ibm851
+IBM851-map := gconv.map
+IBM852-routines := ibm852
+IBM852-map := gconv.map
+IBM855-routines := ibm855
+IBM855-map := gconv.map
+IBM857-routines := ibm857
+IBM857-map := gconv.map
+IBM860-routines := ibm860
+IBM860-map := gconv.map
+IBM861-routines := ibm861
+IBM861-map := gconv.map
+IBM862-routines := ibm862
+IBM862-map := gconv.map
+IBM863-routines := ibm863
+IBM863-map := gconv.map
+IBM864-routines := ibm864
+IBM864-map := gconv.map
+IBM865-routines := ibm865
+IBM865-map := gconv.map
+IBM868-routines := ibm868
+IBM868-map := gconv.map
+IBM869-routines := ibm869
+IBM869-map := gconv.map
+IBM875-routines := ibm875
+IBM875-map := gconv.map
+IBM880-routines := ibm880
+IBM880-map := gconv.map
+IBM866-routines := ibm866
+IBM866-map := gconv.map
+CP1258-routines := cp1258
+CP1258-map := gconv.map
+IBM922-routines := ibm922
+IBM922-map := gconv.map
+IBM1124-routines := ibm1124
+IBM1124-map := gconv.map
+IBM1129-routines := ibm1129
+IBM1129-map := gconv.map
+IBM932-routines := ibm932
+IBM932-map := gconv.map
+IBM943-routines := ibm943
+IBM943-map := gconv.map
+IBM856-routines := ibm856
+IBM856-map := gconv.map
+IBM930-routines := ibm930
+IBM930-map := gconv.map
+IBM933-routines := ibm933
+IBM933-map := gconv.map
+IBM935-routines := ibm935
+IBM935-map := gconv.map
+IBM937-routines := ibm937
+IBM937-map := gconv.map
+IBM939-routines := ibm939
+IBM939-map := gconv.map
+IBM1046-routines := ibm1046
+IBM1046-map := gconv.map
+IBM1132-routines := ibm1132
+IBM1132-map := gconv.map
+IBM1133-routines := ibm1133
+IBM1133-map := gconv.map
+IBM1160-routines := ibm1160
+IBM1160-map := gconv.map
+IBM1161-routines := ibm1161
+IBM1161-map := gconv.map
+IBM1162-routines := ibm1162
+IBM1162-map := gconv.map
+IBM1163-routines := ibm1163
+IBM1163-map := gconv.map
+IBM1164-routines := ibm1164
+IBM1164-map := gconv.map
+IBM918-routines := ibm918
+IBM918-map := gconv.map
+IBM1004-routines := ibm1004
+IBM1004-map := gconv.map
+IBM1026-routines := ibm1026
+IBM1026-map := gconv.map
+CP1125-routines := cp1125
+CP1125-map := gconv.map
+CP1250-routines := cp1250
+CP1250-map := gconv.map
+CP1251-routines := cp1251
+CP1251-map := gconv.map
+CP1252-routines := cp1252
+CP1252-map := gconv.map
+CP1253-routines := cp1253
+CP1253-map := gconv.map
+CP1254-routines := cp1254
+CP1254-map := gconv.map
+CP1255-routines := cp1255
+CP1255-map := gconv.map
+CP1256-routines := cp1256
+CP1256-map := gconv.map
+CP1257-routines := cp1257
+CP1257-map := gconv.map
+ISO-2022-JP-routines := iso-2022-jp
+ISO-2022-JP-map := gconv.map
+MACINTOSH-routines := macintosh
+MACINTOSH-map := gconv.map
+IEC_P27-1-routines := iec_p27-1
+IEC_P27-1-map := gconv.map
+ASMO_449-routines := asmo_449
+ASMO_449-map := gconv.map
+ANSI_X3.110-routines := ansi_x3.110
+ANSI_X3.110-map := gconv.map
+CSN_369103-routines := csn_369103
+CSN_369103-map := gconv.map
+CWI-routines := cwi
+CWI-map := gconv.map
+DEC-MCS-routines := dec-mcs
+DEC-MCS-map := gconv.map
+ECMA-CYRILLIC-routines := ecma-cyrillic
+ECMA-CYRILLIC-map := gconv.map
+GOST_19768-74-routines := gost_19768-74
+GOST_19768-74-map := gconv.map
+GREEK-CCITT-routines := greek-ccitt
+GREEK-CCITT-map := gconv.map
+GREEK7-routines := greek7
+GREEK7-map := gconv.map
+GREEK7-OLD-routines := greek7-old
+GREEK7-OLD-map := gconv.map
+INIS-routines := inis
+INIS-map := gconv.map
+INIS-8-routines := inis-8
+INIS-8-map := gconv.map
+INIS-CYRILLIC-routines := inis-cyrillic
+INIS-CYRILLIC-map := gconv.map
+ISO_6937-2-routines := iso_6937-2
+ISO_6937-2-map := gconv.map
+ISO_2033-routines := iso_2033
+ISO_2033-map := gconv.map
+ISO_5427-routines := iso_5427
+ISO_5427-map := gconv.map
+ISO_5427-EXT-routines := iso_5427-ext
+ISO_5427-EXT-map := gconv.map
+ISO_5428-routines := iso_5428
+ISO_5428-map := gconv.map
+ISO_10367-BOX-routines := iso_10367-box
+ISO_10367-BOX-map := gconv.map
+MAC-IS-routines := mac-is
+MAC-IS-map := gconv.map
+MAC-UK-routines := mac-uk
+MAC-UK-map := gconv.map
+NATS-DANO-routines := nats-dano
+NATS-DANO-map := gconv.map
+NATS-SEFI-routines := nats-sefi
+NATS-SEFI-map := gconv.map
+SAMI-WS2-routines := sami-ws2
+SAMI-WS2-map := gconv.map
+ISO-IR-197-routines := iso-ir-197
+ISO-IR-197-map := gconv.map
+TIS-620-routines := tis-620
+TIS-620-map := gconv.map
+KOI8-U-routines := koi8-u
+KOI8-U-map := gconv.map
+GBK-routines := gbk
+GBK-map := gconv.map
+ISIRI-3342-routines := isiri-3342
+ISIRI-3342-map := gconv.map
+GBGBK-routines := gbgbk
+GBGBK-map := gconv.map
+ISO-2022-CN-routines := iso-2022-cn
+ISO-2022-CN-map := gconv.map
+UTF-16-routines := utf-16
+UTF-16-map := gconv.map
+UNICODE-routines := unicode
+UNICODE-map := gconv.map
+UTF-32-routines := utf-32
+UTF-32-map := gconv.map
+UTF-7-routines := utf-7
+UTF-7-map := gconv.map
+BIG5HKSCS-routines := big5hkscs
+BIG5HKSCS-map := gconv.map
+GB18030-routines := gb18030
+GB18030-map := gconv.map
+ISO-2022-CN-EXT-routines := iso-2022-cn-ext
+ISO-2022-CN-EXT-map := gconv.map
+VISCII-routines := viscii
+VISCII-map := gconv.map
+GBBIG5-routines := gbbig5
+GBBIG5-map := gconv.map
+CP10007-routines := cp10007
+CP10007-map := gconv.map
+KOI8-T-routines := koi8-t
+KOI8-T-map := gconv.map
+GEORGIAN-PS-routines := georgian-ps
+GEORGIAN-PS-map := gconv.map
+GEORGIAN-ACADEMY-routines := georgian-academy
+GEORGIAN-ACADEMY-map := gconv.map
+ISO-IR-209-routines := iso-ir-209
+ISO-IR-209-map := gconv.map
+MAC-SAMI-routines := mac-sami
+MAC-SAMI-map := gconv.map
+ARMSCII-8-routines := armscii-8
+ARMSCII-8-map := gconv.map
+TCVN5712-1-routines := tcvn5712-1
+TCVN5712-1-map := gconv.map
+EUC-JISX0213-routines := euc-jisx0213
+EUC-JISX0213-map := gconv.map
+SHIFT_JISX0213-routines := shift_jisx0213
+SHIFT_JISX0213-map := gconv.map
+ISO-2022-JP-3-routines := iso-2022-jp-3
+ISO-2022-JP-3-map := gconv.map
+TSCII-routines := tscii
+TSCII-map := gconv.map
+IBM866NAV-routines := ibm866nav
+IBM866NAV-map := gconv.map
+CP932-routines := cp932
+CP932-map := gconv.map
+EUC-JP-MS-routines := euc-jp-ms
+EUC-JP-MS-map := gconv.map
+PT154-routines := pt154
+PT154-map := gconv.map
+RK1048-routines := rk1048
+RK1048-map := gconv.map
+IBM1025-routines := ibm1025
+IBM1025-map := gconv.map
+IBM1122-routines := ibm1122
+IBM1122-map := gconv.map
+IBM1137-routines := ibm1137
+IBM1137-map := gconv.map
+IBM1153-routines := ibm1153
+IBM1153-map := gconv.map
+IBM1154-routines := ibm1154
+IBM1154-map := gconv.map
+IBM1155-routines := ibm1155
+IBM1155-map := gconv.map
+IBM1156-routines := ibm1156
+IBM1156-map := gconv.map
+IBM1157-routines := ibm1157
+IBM1157-map := gconv.map
+IBM1158-routines := ibm1158
+IBM1158-map := gconv.map
+IBM803-routines := ibm803
+IBM803-map := gconv.map
+IBM901-routines := ibm901
+IBM901-map := gconv.map
+IBM902-routines := ibm902
+IBM902-map := gconv.map
+IBM921-routines := ibm921
+IBM921-map := gconv.map
+IBM1008-routines := ibm1008
+IBM1008-map := gconv.map
+IBM1008_420-routines := ibm1008_420
+IBM1008_420-map := gconv.map
+IBM1097-routines := ibm1097
+IBM1097-map := gconv.map
+IBM1112-routines := ibm1112
+IBM1112-map := gconv.map
+IBM1123-routines := ibm1123
+IBM1123-map := gconv.map
+IBM1130-routines := ibm1130
+IBM1130-map := gconv.map
+IBM1140-routines := ibm1140
+IBM1140-map := gconv.map
+IBM1141-routines := ibm1141
+IBM1141-map := gconv.map
+IBM1142-routines := ibm1142
+IBM1142-map := gconv.map
+IBM1143-routines := ibm1143
+IBM1143-map := gconv.map
+IBM1144-routines := ibm1144
+IBM1144-map := gconv.map
+IBM1145-routines := ibm1145
+IBM1145-map := gconv.map
+IBM1146-routines := ibm1146
+IBM1146-map := gconv.map
+IBM1147-routines := ibm1147
+IBM1147-map := gconv.map
+IBM1148-routines := ibm1148
+IBM1148-map := gconv.map
+IBM1149-routines := ibm1149
+IBM1149-map := gconv.map
+IBM1166-routines := ibm1166
+IBM1166-map := gconv.map
+IBM1167-routines := ibm1167
+IBM1167-map := gconv.map
+IBM4517-routines := ibm4517
+IBM4517-map := gconv.map
+IBM4899-routines := ibm4899
+IBM4899-map := gconv.map
+IBM4909-routines := ibm4909
+IBM4909-map := gconv.map
+IBM4971-routines := ibm4971
+IBM4971-map := gconv.map
+IBM5347-routines := ibm5347
+IBM5347-map := gconv.map
+IBM9030-routines := ibm9030
+IBM9030-map := gconv.map
+IBM9066-routines := ibm9066
+IBM9066-map := gconv.map
+IBM9448-routines := ibm9448
+IBM9448-map := gconv.map
+IBM12712-routines := ibm12712
+IBM12712-map := gconv.map
+IBM16804-routines := ibm16804
+IBM16804-map := gconv.map
+IBM1364-routines := ibm1364
+IBM1364-map := gconv.map
+IBM1371-routines := ibm1371
+IBM1371-map := gconv.map
+IBM1388-routines := ibm1388
+IBM1388-map := gconv.map
+IBM1390-routines := ibm1390
+IBM1390-map := gconv.map
+IBM1399-routines := ibm1399
+IBM1399-map := gconv.map
+ISO_11548-1-routines := iso_11548-1
+ISO_11548-1-map := gconv.map
+MIK-routines := mik
+MIK-map := gconv.map
+BRF-routines := brf
+BRF-map := gconv.map
+MAC-CENTRALEUROPE-routines := mac-centraleurope
+MAC-CENTRALEUROPE-map := gconv.map
+KOI8-RU-routines := koi8-ru
+KOI8-RU-map := gconv.map
+ISO8859-9E-routines := iso8859-9e
+ISO8859-9E-map := gconv.map
+$(objpfx)iso8859-2.stmp: $(charmaps)/ISO-8859-2 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)iso8859-3.stmp: $(charmaps)/ISO-8859-3 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)iso8859-4.stmp: $(charmaps)/ISO-8859-4 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)iso8859-6.stmp: $(charmaps)/ISO-8859-6 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)iso8859-9.stmp: $(charmaps)/ISO-8859-9 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)koi-8.stmp: $(charmaps)/KOI-8 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-at-de.stmp: $(charmaps)/EBCDIC-AT-DE gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-at-de-a.stmp: $(charmaps)/EBCDIC-AT-DE-A gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-ca-fr.stmp: $(charmaps)/EBCDIC-CA-FR gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-dk-no.stmp: $(charmaps)/EBCDIC-DK-NO gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-dk-no-a.stmp: $(charmaps)/EBCDIC-DK-NO-A gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-es-s.stmp: $(charmaps)/EBCDIC-ES-S gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-fi-se.stmp: $(charmaps)/EBCDIC-FI-SE gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-fi-se-a.stmp: $(charmaps)/EBCDIC-FI-SE-A gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-fr.stmp: $(charmaps)/EBCDIC-FR gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-it.stmp: $(charmaps)/EBCDIC-IT gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-pt.stmp: $(charmaps)/EBCDIC-PT gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ebcdic-us.stmp: $(charmaps)/EBCDIC-US gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm037.stmp: $(charmaps)/IBM037 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm038.stmp: $(charmaps)/IBM038 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm274.stmp: $(charmaps)/IBM274 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm275.stmp: $(charmaps)/IBM275 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm423.stmp: $(charmaps)/IBM423 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm500.stmp: $(charmaps)/IBM500 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm870.stmp: $(charmaps)/IBM870 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm871.stmp: $(charmaps)/IBM871 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm891.stmp: $(charmaps)/IBM891 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm903.stmp: $(charmaps)/IBM903 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm904.stmp: $(charmaps)/IBM904 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm905.stmp: $(charmaps)/IBM905 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)ibm1047.stmp: $(charmaps)/IBM1047 gen-8bit.sh
+	$(generate-8bit-table)
+$(objpfx)koi8-r.stmp: $(charmaps)/KOI8-R gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)latin-greek.stmp: $(charmaps)/LATIN-GREEK gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)latin-greek-1.stmp: $(charmaps)/LATIN-GREEK-1 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm256.stmp: $(charmaps)/IBM256 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm273.stmp: $(charmaps)/IBM273 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm277.stmp: $(charmaps)/IBM277 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm278.stmp: $(charmaps)/IBM278 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm280.stmp: $(charmaps)/IBM280 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm281.stmp: $(charmaps)/IBM281 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm284.stmp: $(charmaps)/IBM284 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm285.stmp: $(charmaps)/IBM285 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm290.stmp: $(charmaps)/IBM290 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm297.stmp: $(charmaps)/IBM297 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm420.stmp: $(charmaps)/IBM420 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm424.stmp: $(charmaps)/IBM424 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm437.stmp: $(charmaps)/IBM437 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm850.stmp: $(charmaps)/IBM850 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm851.stmp: $(charmaps)/IBM851 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm852.stmp: $(charmaps)/IBM852 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm855.stmp: $(charmaps)/IBM855 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm857.stmp: $(charmaps)/IBM857 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm860.stmp: $(charmaps)/IBM860 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm861.stmp: $(charmaps)/IBM861 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm862.stmp: $(charmaps)/IBM862 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm863.stmp: $(charmaps)/IBM863 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm864.stmp: $(charmaps)/IBM864 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm865.stmp: $(charmaps)/IBM865 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm868.stmp: $(charmaps)/IBM868 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm869.stmp: $(charmaps)/IBM869 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm875.stmp: $(charmaps)/IBM875 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm880.stmp: $(charmaps)/IBM880 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm918.stmp: $(charmaps)/IBM918 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm1004.stmp: $(charmaps)/IBM1004 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm1026.stmp: $(charmaps)/IBM1026 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1125.stmp: $(charmaps)/CP1125 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1250.stmp: $(charmaps)/CP1250 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1251.stmp: $(charmaps)/CP1251 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1252.stmp: $(charmaps)/CP1252 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1253.stmp: $(charmaps)/CP1253 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1254.stmp: $(charmaps)/CP1254 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1256.stmp: $(charmaps)/CP1256 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp1257.stmp: $(charmaps)/CP1257 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm866.stmp: $(charmaps)/IBM866 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-5.stmp: $(charmaps)/ISO-8859-5 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-7.stmp: $(charmaps)/ISO-8859-7 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-8.stmp: $(charmaps)/ISO-8859-8 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-10.stmp: $(charmaps)/ISO-8859-10 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)macintosh.stmp: $(charmaps)/MACINTOSH gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iec_p27-1.stmp: $(charmaps)/IEC_P27-1 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)asmo_449.stmp: $(charmaps)/ASMO_449 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)csn_369103.stmp: $(charmaps)/CSN_369103 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cwi.stmp: $(charmaps)/CWI gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)dec-mcs.stmp: $(charmaps)/DEC-MCS gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ecma-cyrillic.stmp: $(charmaps)/ECMA-CYRILLIC gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)gost_19768-74.stmp: $(charmaps)/GOST_19768-74 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)greek-ccitt.stmp: $(charmaps)/GREEK-CCITT gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)greek7.stmp: $(charmaps)/GREEK7 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)greek7-old.stmp: $(charmaps)/GREEK7-OLD gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)inis.stmp: $(charmaps)/INIS gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)inis-8.stmp: $(charmaps)/INIS-8 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)inis-cyrillic.stmp: $(charmaps)/INIS-CYRILLIC gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso_2033.stmp: $(charmaps)/ISO_2033-1983 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso_5427.stmp: $(charmaps)/ISO_5427 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso_5427-ext.stmp: $(charmaps)/ISO_5427-EXT gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso_5428.stmp: $(charmaps)/ISO_5428 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso_10367-box.stmp: $(charmaps)/ISO_10367-BOX gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)mac-is.stmp: $(charmaps)/MAC-IS gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)nats-dano.stmp: $(charmaps)/NATS-DANO gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)nats-sefi.stmp: $(charmaps)/NATS-SEFI gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-13.stmp: $(charmaps)/ISO-8859-13 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-14.stmp: $(charmaps)/ISO-8859-14 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-15.stmp: $(charmaps)/ISO-8859-15 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)mac-uk.stmp: $(charmaps)/MAC-UK gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)sami-ws2.stmp: $(charmaps)/SAMI-WS2 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso-ir-197.stmp: $(charmaps)/ISO-IR-197 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)tis-620.stmp: $(charmaps)/TIS-620 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)koi8-u.stmp: $(charmaps)/KOI8-U gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm874.stmp: $(charmaps)/IBM874 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)cp10007.stmp: $(charmaps)/CP10007 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)koi8-t.stmp: $(charmaps)/KOI8-T gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)georgian-ps.stmp: $(charmaps)/GEORGIAN-PS gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)georgian-academy.stmp: $(charmaps)/GEORGIAN-ACADEMY gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso-ir-209.stmp: $(charmaps)/ISO-IR-209 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)mac-sami.stmp: $(charmaps)/MAC-SAMI gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-11.stmp: $(charmaps)/ISO-8859-11 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ibm866nav.stmp: $(charmaps)/IBM866NAV gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)pt154.stmp: $(charmaps)/PT154 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)rk1048.stmp: $(charmaps)/RK1048 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)mik.stmp: $(charmaps)/MIK gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)brf.stmp: $(charmaps)/BRF gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)mac-centraleurope.stmp: $(charmaps)/MAC-CENTRALEUROPE gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)koi8-ru.stmp: $(charmaps)/KOI8-RU gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)hp-roman8.stmp: $(charmaps)/HP-ROMAN8 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)hp-roman9.stmp: $(charmaps)/HP-ROMAN9 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ebcdic-es.stmp: $(charmaps)/EBCDIC-ES gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ebcdic-es-a.stmp: $(charmaps)/EBCDIC-ES-A gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ebcdic-is-friss.stmp: $(charmaps)/EBCDIC-IS-FRISS gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)ebcdic-uk.stmp: $(charmaps)/EBCDIC-UK gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-16.stmp: $(charmaps)/ISO-8859-16 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)viscii.stmp: $(charmaps)/VISCII gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)iso8859-9e.stmp: $(charmaps)/ISO-8859-9E gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)hp-turkish8.stmp: $(charmaps)/HP-TURKISH8 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)hp-thai8.stmp: $(charmaps)/HP-THAI8 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)
+$(objpfx)hp-greek8.stmp: $(charmaps)/HP-GREEK8 gen-8bit-gap.sh
+	$(generate-8bit-gap-table)

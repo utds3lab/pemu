@@ -1,0 +1,35 @@
+PEMU_LIBC_2.0 {
+  global:
+    _r_debug;
+    calloc; free; malloc; realloc; __libc_memalign;
+  local:
+    *;
+};
+PEMU_LIBC_2.1 {
+  global:
+    __libc_stack_end;
+    _dl_mcount;
+} PEMU_LIBC_2.0;
+PEMU_LIBC_2.3 {
+  global:
+    ___tls_get_addr;
+    __tls_get_addr;
+} PEMU_LIBC_2.1;
+PEMU_LIBC_2.4 {
+  global:
+    __stack_chk_guard;
+} PEMU_LIBC_2.3;
+PEMU_LIBC_PRIVATE {
+  global:
+    __libc_enable_secure;
+    __pointer_chk_guard;
+    _dl_allocate_tls; _dl_deallocate_tls;
+    _dl_argv;
+    _dl_debug_state;
+    _dl_get_tls_static_info; _dl_allocate_tls_init;
+    _dl_make_stack_executable;
+    _dl_out_of_memory;
+    _dl_starting_up;
+    _dl_tls_setup; _dl_rtld_di_serinfo;
+    _rtld_global; _rtld_global_ro;
+} PEMU_LIBC_2.4;

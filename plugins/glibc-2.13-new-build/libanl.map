@@ -1,0 +1,6 @@
+PEMU_LIBC_2.2.3 {
+  global:
+    getaddrinfo_a; gai_cancel; gai_error; gai_suspend;
+  local:
+    *;
+};

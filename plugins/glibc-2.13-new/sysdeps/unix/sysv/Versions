@@ -1,0 +1,5 @@
+libc {
+  PEMU_LIBC_2.0 {
+    sysinfo;
+  }
+}

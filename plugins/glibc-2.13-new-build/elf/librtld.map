@@ -1,0 +1,1654 @@
+Archive member included because of file (symbol)
+
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__udivdi3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setjmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__sigsetjmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(__longjmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__longjmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strchr.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strchr)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strcmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strlen)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strnlen)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memchr.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memchr)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memcmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memmove)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memset)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (mempcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(stpcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (stpcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(rawmemchr.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (rawmemchr)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os) (__memset_sse2)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os) (__memcpy_ssse3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os) (__memcpy_ssse3_rep)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3_rep)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os) (__memmove_ssse3_rep)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os) (__memset_sse2_rep)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os) (__strcmp_sse4_2)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os) (__memcmp_sse4_2)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os) (__strlen_sse2)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2-bsf.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os) (__strlen_sse2_bsf)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os) (__x86_data_cache_size_half)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__uname)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(_exit.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (_exit)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getpid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getuid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__geteuid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getgid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getegid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(environ.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__environ)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__GI___xstat64)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os) (__open_nocancel)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__close)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__libc_read)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__libc_write)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__lseek)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__access)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getcwd)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os) (__readlink)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os) (__xstat64_conv)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os) (__GI___getpagesize)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__mmap)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__munmap)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__mprotect)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os) (pemusysenter)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__profil)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os) (__init_cpu_features)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os) (__GI_bsearch)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os) (__setitimer)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os) (__opendir)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os) (__closedir)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os) (__readdir)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os) (__getdents)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os) (__GI___lxstat)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os) (__have_o_cloexec)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os) (__lseek64)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-lowlevellock.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os) (__GI_exit)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os) (__exit_funcs)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+LOAD /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a
+LOAD /usr/lib/gcc/i686-linux-gnu/4.6.1/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rel.text
+ *(.rel.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rel.ifunc
+ *(.rel.ifunc)
+
+.rel.plt
+ *(.rel.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.text           0x0000000000000000    0x1a11a
+ *(.text .stub)
+ .text          0x0000000000000000    0x14c55 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000020                _start
+                0x0000000000000027                _dl_start_user
+                0x0000000000000070                _dl_initial_error_catch_tsd
+                0x0000000000006070                _dl_dst_count
+                0x0000000000006150                _dl_dst_substitute
+                0x0000000000006680                _dl_init_paths
+                0x0000000000006a90                _dl_map_object
+                0x0000000000007360                _dl_rtld_di_serinfo
+                0x0000000000007520                _dl_cache_libcmp
+                0x0000000000007680                _dl_load_cache_lookup
+                0x0000000000007c50                _dl_unload_cache
+                0x0000000000008580                _dl_lookup_symbol_x
+                0x00000000000093d0                _dl_setup_hash
+                0x00000000000094b0                _dl_add_to_namespace_list
+                0x0000000000009560                _dl_new_object
+                0x00000000000098a0                _dl_try_allocate_static_tls
+                0x00000000000099a0                _dl_allocate_static_tls
+                0x00000000000099f0                _dl_nothread_init_static_tls
+                0x0000000000009ab0                _dl_protect_relro
+                0x0000000000009b30                _dl_reloc_bad_type
+                0x0000000000009ba0                _dl_relocate_object
+                0x000000000000b8a0                _dl_map_object_deps
+                0x000000000000c7d0                _dl_fixup
+                0x000000000000c970                _dl_profile_fixup
+                0x000000000000cee0                _dl_call_pltexit
+                0x000000000000cff0                _dl_signal_error
+                0x000000000000d1b0                _dl_signal_cerror
+                0x000000000000d270                _dl_catch_error
+                0x000000000000d350                _dl_receive_error
+                0x000000000000d530                _dl_init_internal
+                0x000000000000d530                _dl_init
+                0x000000000000d660                _dl_sort_fini
+                0x000000000000d8e0                _dl_fini
+                0x000000000000dce0                _dl_debug_state
+                0x000000000000dce0                __GI__dl_debug_state
+                0x000000000000dcf0                _dl_debug_initialize
+                0x000000000000e2a0                _dl_sysdep_read_whole_file
+                0x000000000000e370                _dl_debug_printf
+                0x000000000000e3b0                _dl_debug_printf_c
+                0x000000000000e3f0                _dl_dprintf
+                0x000000000000e420                _dl_name_match_p
+                0x000000000000e490                _dl_higher_prime_number
+                0x000000000000e880                _dl_check_map_versions
+                0x000000000000ecf0                _dl_check_all_versions
+                0x000000000000ed60                _dl_start_profile
+                0x000000000000f5e0                _dl_mcount_internal
+                0x000000000000f5e0                _dl_mcount
+                0x000000000000f820                _dl_resolve_conflicts
+                0x000000000000f9a0                __tls_get_addr
+                0x000000000000f9b0                _dl_next_tls_modid
+                0x000000000000fac0                _dl_determine_tlsoffset
+                0x000000000000fcf0                __GI__dl_tls_setup
+                0x000000000000fcf0                _dl_tls_setup
+                0x000000000000fdc0                _dl_get_tls_static_info
+                0x000000000000fde0                _dl_allocate_tls_storage
+                0x000000000000fed0                __GI__dl_allocate_tls_init
+                0x000000000000fed0                _dl_allocate_tls_init
+                0x0000000000010110                __GI__dl_allocate_tls
+                0x0000000000010110                _dl_allocate_tls
+                0x0000000000010130                _dl_deallocate_tls
+                0x0000000000010130                __GI__dl_deallocate_tls
+                0x00000000000101c0                _dl_update_slotinfo
+                0x00000000000104d0                ___tls_get_addr_internal
+                0x00000000000104d0                ___tls_get_addr
+                0x0000000000010540                _dl_tls_get_addr_soft
+                0x00000000000105d0                _dl_add_to_slotinfo
+                0x00000000000106d0                _dl_get_origin
+                0x0000000000010840                _dl_scope_free
+                0x0000000000010910                _dl_make_stack_executable
+                0x0000000000010910                __GI__dl_make_stack_executable
+                0x0000000000010a30                _dl_check_caller
+                0x0000000000010dd0                _dl_open
+                0x00000000000110f0                _dl_addr_inside_object
+                0x0000000000011aa0                _dl_close_worker
+                0x0000000000012840                _dl_close
+                0x00000000000128f0                _dl_runtime_resolve
+                0x0000000000012910                _dl_runtime_profile
+                0x00000000000129d0                _dl_sysdep_start
+                0x0000000000012e70                _dl_sysdep_start_cleanup
+                0x0000000000012e80                _dl_show_auxv
+                0x00000000000130c0                _dl_important_hwcaps
+                0x00000000000137c0                _dl_discover_osversion
+                0x00000000000139c0                _dl_next_ld_env_entry
+                0x0000000000013a00                unsetenv
+                0x0000000000013a80                __libc_memalign
+                0x0000000000013b90                malloc
+                0x0000000000013bc0                calloc
+                0x0000000000013c20                free
+                0x0000000000013c80                __sigjmp_save
+                0x0000000000013c90                __GI___assert_fail
+                0x0000000000013c90                __assert_fail
+                0x0000000000013d00                realloc
+                0x0000000000013da0                __strtoul_internal
+                0x0000000000013f20                _itoa
+                0x0000000000013fe0                __strerror_r
+                0x00000000000140c0                __GI___assert_perror_fail
+                0x00000000000140c0                __assert_perror_fail
+                0x0000000000014160                __strsep
+                0x0000000000014160                strsep
+                0x0000000000014160                __strsep_g
+                0x0000000000014220                __GI___chk_fail
+                0x0000000000014220                __chk_fail
+                0x0000000000014240                __brk
+                0x0000000000014240                brk
+                0x00000000000142a0                sbrk
+                0x00000000000142a0                __sbrk
+                0x0000000000014340                _dl_make_tlsdesc_dynamic
+                0x0000000000014630                _dl_tlsdesc_resolve_abs_plus_addend_fixup
+                0x0000000000014710                _dl_tlsdesc_resolve_rel_fixup
+                0x00000000000148c0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000014a70                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000014ad0                _dl_unmap
+                0x0000000000014b60                _dl_tlsdesc_return
+                0x0000000000014b70                _dl_tlsdesc_undefweak
+                0x0000000000014b80                _dl_tlsdesc_dynamic
+                0x0000000000014be0                _dl_tlsdesc_resolve_abs_plus_addend
+                0x0000000000014c00                _dl_tlsdesc_resolve_rel
+                0x0000000000014c20                _dl_tlsdesc_resolve_rela
+                0x0000000000014c40                _dl_tlsdesc_resolve_hold
+ *fill*         0x0000000000014c55        0xb 90909090
+ .text          0x0000000000014c60      0x140 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+                0x0000000000014d70                __libc_check_standard_fds
+ .text          0x0000000000014da0        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+ .text          0x0000000000014da0      0x3d3 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+                0x0000000000014f70                __divdi3@PEMU_LIBC_2.0
+                0x0000000000014f70                __divdi3_internal
+                0x0000000000014ff0                __moddi3@PEMU_LIBC_2.0
+                0x0000000000014ff0                __moddi3_internal
+                0x0000000000015100                __udivdi3@PEMU_LIBC_2.0
+                0x0000000000015100                __udivdi3_internal
+                0x0000000000015140                __umoddi3_internal
+                0x0000000000015140                __umoddi3@PEMU_LIBC_2.0
+ *fill*         0x0000000000015173        0xd 90909090
+ .text          0x0000000000015180       0x35 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setjmp.os)
+                0x0000000000015180                __sigsetjmp
+ *fill*         0x00000000000151b5        0xb 90909090
+ .text          0x00000000000151c0       0x31 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(__longjmp.os)
+                0x00000000000151c0                __longjmp
+ *fill*         0x00000000000151f1        0xf 90909090
+ .text          0x0000000000015200      0x167 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strchr.os)
+                0x0000000000015200                __GI_strchr
+                0x0000000000015200                index
+                0x0000000000015200                strchr
+ *fill*         0x0000000000015367        0x9 90909090
+ .text          0x0000000000015370       0x75 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+                0x0000000000015370                strcmp
+                0x00000000000153c0                __GI_strcmp
+ *fill*         0x00000000000153e5        0xb 90909090
+ .text          0x00000000000153f0       0x20 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+                0x00000000000153f0                strcpy
+                0x00000000000153f0                __GI_strcpy
+ .text          0x0000000000015410      0x10b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+                0x0000000000015410                strlen
+                0x0000000000015460                __strlen_ia32
+                0x0000000000015460                __GI_strlen
+ *fill*         0x000000000001551b        0x5 90909090
+ .text          0x0000000000015520       0x96 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+                0x0000000000015520                __strnlen
+                0x0000000000015520                strnlen
+                0x0000000000015520                __GI_strnlen
+ *fill*         0x00000000000155b6        0xa 90909090
+ .text          0x00000000000155c0      0x19b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memchr.os)
+                0x00000000000155c0                __GI_memchr
+                0x00000000000155c0                memchr
+                0x00000000000155c0                __memchr
+                0x00000000000155c0                __ubp_memchr
+ *fill*         0x000000000001575b        0x5 90909090
+ .text          0x0000000000015760      0x323 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+                0x0000000000015760                bcmp
+                0x0000000000015760                memcmp
+                0x00000000000157b0                __GI_memcmp
+ *fill*         0x0000000000015a83        0xd 90909090
+ .text          0x0000000000015a90       0xb8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+                0x0000000000015a90                memmove
+                0x0000000000015ae0                __memmove_chk_ia32
+                0x0000000000015af0                __GI_memmove
+ *fill*         0x0000000000015b48        0x8 90909090
+ .text          0x0000000000015b50       0xa3 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+                0x0000000000015b50                memset
+                0x0000000000015ba0                __memset_chk_ia32
+                0x0000000000015bb0                __GI_memset
+                0x0000000000015bb0                __memset_ia32
+ *fill*         0x0000000000015bf3        0xd 90909090
+ .text          0x0000000000015c00       0x82 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+                0x0000000000015c00                mempcpy
+                0x0000000000015c00                __mempcpy
+                0x0000000000015c50                __mempcpy_chk_ia32
+                0x0000000000015c60                __GI_mempcpy
+                0x0000000000015c60                __GI___mempcpy
+ *fill*         0x0000000000015c82        0xe 90909090
+ .text          0x0000000000015c90       0x41 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(stpcpy.os)
+                0x0000000000015c90                stpcpy
+                0x0000000000015c90                __GI_stpcpy
+                0x0000000000015c90                __stpcpy
+                0x0000000000015c90                __GI___stpcpy
+ *fill*         0x0000000000015cd1        0xf 90909090
+ .text          0x0000000000015ce0       0xc5 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+                0x0000000000015ce0                memcpy
+                0x0000000000015d30                __memcpy_chk_ia32
+                0x0000000000015d40                __GI_memcpy
+ *fill*         0x0000000000015da5        0xb 90909090
+ .text          0x0000000000015db0       0xc6 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(rawmemchr.os)
+                0x0000000000015db0                __GI___rawmemchr
+                0x0000000000015db0                __rawmemchr
+                0x0000000000015db0                rawmemchr
+ *fill*         0x0000000000015e76        0x2 90909090
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x0000000000015e78        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+ *fill*         0x0000000000015e78        0x8 90909090
+ .text          0x0000000000015e80      0x2dc /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2.os)
+                0x0000000000015e80                __strlen_sse2
+ *fill*         0x000000000001615c        0x4 90909090
+ .text          0x0000000000016160       0xc8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2-bsf.os)
+                0x0000000000016160                __strlen_sse2_bsf
+ *fill*         0x0000000000016228        0x8 90909090
+ .text          0x0000000000016230      0x55f /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+                0x0000000000016710                __cache_sysconf
+ *fill*         0x000000000001678f        0x1 90909090
+ .text          0x0000000000016790       0x47 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+                0x0000000000016790                uname
+                0x0000000000016790                __GI_uname
+                0x0000000000016790                __uname
+                0x0000000000016790                __GI___uname
+ *fill*         0x00000000000167d7        0x1 90909090
+ .text          0x00000000000167d8       0x26 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(_exit.os)
+                0x00000000000167d8                _Exit
+                0x00000000000167d8                __GI__exit
+                0x00000000000167d8                _exit
+ *fill*         0x00000000000167fe        0x2 90909090
+ .text          0x0000000000016800       0x4a /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+                0x0000000000016800                __getpid
+                0x0000000000016800                getpid
+                0x0000000000016800                __GI_getpid
+                0x0000000000016800                __GI___getpid
+ *fill*         0x000000000001684a        0x6 90909090
+ .text          0x0000000000016850       0x6d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+                0x0000000000016850                getuid
+                0x0000000000016850                __getuid
+ *fill*         0x00000000000168bd        0x3 90909090
+ .text          0x00000000000168c0       0x6d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+                0x00000000000168c0                geteuid
+                0x00000000000168c0                __geteuid
+ *fill*         0x000000000001692d        0x3 90909090
+ .text          0x0000000000016930       0x6d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+                0x0000000000016930                getgid
+                0x0000000000016930                __getgid
+ *fill*         0x000000000001699d        0x3 90909090
+ .text          0x00000000000169a0       0x6d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+                0x00000000000169a0                getegid
+                0x00000000000169a0                __getegid
+ *fill*         0x0000000000016a0d        0x3 90909090
+ .text          0x0000000000016a10        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(environ.os)
+ .text          0x0000000000016a10      0x106 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+                0x0000000000016a10                ___xstat64
+                0x0000000000016a10                __old__xstat64
+                0x0000000000016a10                __GI___xstat64
+                0x0000000000016a10                __xstat64@@PEMU_LIBC_2.2
+                0x0000000000016a10                __xstat64@PEMU_LIBC_2.1
+ *fill*         0x0000000000016b16        0xa 90909090
+ .text          0x0000000000016b20      0x106 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+                0x0000000000016b20                __fxstat64@PEMU_LIBC_2.1
+                0x0000000000016b20                __fxstat64@@PEMU_LIBC_2.2
+                0x0000000000016b20                ___fxstat64
+                0x0000000000016b20                __old__fxstat64
+                0x0000000000016b20                __GI___fxstat64
+ *fill*         0x0000000000016c26        0xa 90909090
+ .text          0x0000000000016c30       0x96 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+                0x0000000000016c30                __open
+                0x0000000000016c30                __GI_open
+                0x0000000000016c30                __GI___open
+                0x0000000000016c30                __libc_open
+                0x0000000000016c30                __GI___libc_open
+                0x0000000000016c30                open
+                0x0000000000016c3a                __open_nocancel
+ *fill*         0x0000000000016cc6        0xa 90909090
+ .text          0x0000000000016cd0       0x8b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+                0x0000000000016cd0                __GI_close
+                0x0000000000016cd0                __GI___libc_close
+                0x0000000000016cd0                __libc_close
+                0x0000000000016cd0                __close
+                0x0000000000016cd0                __GI___close
+                0x0000000000016cd0                close
+                0x0000000000016cda                __close_nocancel
+ *fill*         0x0000000000016d5b        0x5 90909090
+ .text          0x0000000000016d60       0x96 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+                0x0000000000016d60                __read
+                0x0000000000016d60                __GI_read
+                0x0000000000016d60                __libc_read
+                0x0000000000016d60                __GI___read
+                0x0000000000016d60                read
+                0x0000000000016d60                __GI___libc_read
+                0x0000000000016d6a                __read_nocancel
+ *fill*         0x0000000000016df6        0xa 90909090
+ .text          0x0000000000016e00       0x96 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+                0x0000000000016e00                __write
+                0x0000000000016e00                __GI_write
+                0x0000000000016e00                write
+                0x0000000000016e00                __GI___libc_write
+                0x0000000000016e00                __GI___write
+                0x0000000000016e00                __libc_write
+                0x0000000000016e0a                __write_nocancel
+ *fill*         0x0000000000016e96        0xa 90909090
+ .text          0x0000000000016ea0       0x4d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+                0x0000000000016ea0                __GI___lseek
+                0x0000000000016ea0                lseek
+                0x0000000000016ea0                __GI___libc_lseek
+                0x0000000000016ea0                __lseek
+                0x0000000000016ea0                __libc_lseek
+                0x0000000000016ea0                __GI_lseek
+ *fill*         0x0000000000016eed        0x3 90909090
+ .text          0x0000000000016ef0       0x4b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+                0x0000000000016ef0                __GI_access
+                0x0000000000016ef0                __GI___access
+                0x0000000000016ef0                access
+                0x0000000000016ef0                __access
+ *fill*         0x0000000000016f3b        0x5 90909090
+ .text          0x0000000000016f40      0x35d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+                0x0000000000016f40                __fcntl_nocancel
+                0x0000000000017220                __libc_fcntl
+                0x0000000000017220                __GI___libc_fcntl
+                0x0000000000017220                __GI___fcntl
+                0x0000000000017220                __fcntl
+                0x0000000000017220                fcntl
+ *fill*         0x000000000001729d        0x3 90909090
+ .text          0x00000000000172a0      0x8c7 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+                0x00000000000178d0                __getcwd
+                0x00000000000178d0                getcwd
+ *fill*         0x0000000000017b67        0x9 90909090
+ .text          0x0000000000017b70       0x4d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+                0x0000000000017b70                readlink
+                0x0000000000017b70                __GI___readlink
+                0x0000000000017b70                __readlink
+                0x0000000000017b70                __GI_readlink
+ *fill*         0x0000000000017bbd        0x3 90909090
+ .text          0x0000000000017bc0      0x316 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+                0x0000000000017bc0                __xstat_conv
+                0x0000000000017cf0                __xstat64_conv
+                0x0000000000017dc0                __xstat32_conv
+ *fill*         0x0000000000017ed6        0xa 90909090
+ .text          0x0000000000017ee0       0x1f /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+                0x0000000000017ee0                getpagesize
+                0x0000000000017ee0                __GI___getpagesize
+                0x0000000000017ee0                __getpagesize
+ *fill*         0x0000000000017eff        0x1 90909090
+ .text          0x0000000000017f00       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+                0x0000000000017f00                __mmap
+                0x0000000000017f00                mmap
+ *fill*         0x0000000000017f34        0xc 90909090
+ .text          0x0000000000017f40       0x4b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+                0x0000000000017f40                munmap
+                0x0000000000017f40                __GI___munmap
+                0x0000000000017f40                __GI_munmap
+                0x0000000000017f40                __munmap
+ *fill*         0x0000000000017f8b        0x5 90909090
+ .text          0x0000000000017f90       0x4d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+                0x0000000000017f90                __mprotect
+                0x0000000000017f90                __GI___mprotect
+                0x0000000000017f90                __GI_mprotect
+                0x0000000000017f90                mprotect
+ *fill*         0x0000000000017fdd        0x3 90909090
+ .text          0x0000000000017fe0       0x60 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+                0x0000000000017fe0                printpid
+                0x0000000000017ff0                pemusysenter
+ .text          0x0000000000018040      0x22d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+                0x0000000000018090                __profil
+                0x0000000000018090                profil
+ *fill*         0x000000000001826d        0x3 90909090
+ .text          0x0000000000018270       0xb2 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+                0x0000000000018270                __GI___profile_frequency
+                0x0000000000018270                __profile_frequency
+ *fill*         0x0000000000018322        0xe 90909090
+ .text          0x0000000000018330       0xde /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+                0x0000000000018330                __libc_enable_asynccancel
+                0x0000000000018390                __libc_disable_asynccancel
+ *fill*         0x000000000001840e        0x2 90909090
+ .text          0x0000000000018410      0x1c3 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+                0x0000000000018410                __init_cpu_features
+                0x00000000000185b0                __get_cpu_features
+ *fill*         0x00000000000185d3        0xd 90909090
+ .text          0x00000000000185e0      0x30f /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+                0x00000000000185f0                __libc_sigaction
+                0x00000000000185f0                __GI___libc_sigaction
+                0x0000000000018890                sigaction
+                0x0000000000018890                __GI___sigaction
+                0x0000000000018890                __sigaction
+ *fill*         0x00000000000188ef        0x1 90909090
+ .text          0x00000000000188f0       0x6b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+                0x00000000000188f0                bsearch
+                0x00000000000188f0                __GI_bsearch
+ *fill*         0x000000000001895b        0x5 90909090
+ .text          0x0000000000018960       0x4d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+                0x0000000000018960                setitimer
+                0x0000000000018960                __setitimer
+                0x0000000000018960                __GI_setitimer
+                0x0000000000018960                __GI___setitimer
+ *fill*         0x00000000000189ad        0x3 90909090
+ .text          0x00000000000189b0      0x37b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+                0x00000000000189b0                __alloc_dir
+                0x0000000000018b30                __opendir
+                0x0000000000018b30                opendir
+ *fill*         0x0000000000018d2b        0x5 90909090
+ .text          0x0000000000018d30       0x5e /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+                0x0000000000018d30                __closedir
+                0x0000000000018d30                closedir
+ *fill*         0x0000000000018d8e        0x2 90909090
+ .text          0x0000000000018d90       0xda /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+                0x0000000000018d90                readdir
+                0x0000000000018d90                __readdir
+ *fill*         0x0000000000018e6a        0x6 90909090
+ .text          0x0000000000018e70      0x37b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+                0x0000000000018e70                __getdents
+ *fill*         0x00000000000191eb        0x5 90909090
+ .text          0x00000000000191f0      0x182 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+                0x00000000000191f0                __GI___lxstat
+                0x00000000000191f0                _lxstat
+                0x00000000000191f0                __lxstat
+ *fill*         0x0000000000019372        0x2 90909090
+ .text          0x0000000000019374        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+ *fill*         0x0000000000019374        0xc 90909090
+ .text          0x0000000000019380       0x94 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+                0x0000000000019380                __llseek
+                0x0000000000019380                __lseek64
+                0x0000000000019380                __libc_lseek64
+                0x0000000000019380                llseek
+                0x0000000000019380                lseek64
+ *fill*         0x0000000000019414        0xc 90909090
+ .text          0x0000000000019420      0x931 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+                0x0000000000019420                pthread_equal
+                0x0000000000019470                pthread_attr_destroy
+                0x00000000000194b0                pthread_attr_init@PEMU_LIBC_2.0
+                0x00000000000194b0                __pthread_attr_init_2_0
+                0x00000000000194f0                pthread_attr_init@@PEMU_LIBC_2.1
+                0x00000000000194f0                __pthread_attr_init_2_1
+                0x0000000000019530                pthread_attr_getdetachstate
+                0x0000000000019580                pthread_attr_setdetachstate
+                0x00000000000195d0                pthread_attr_getinheritsched
+                0x0000000000019620                pthread_attr_setinheritsched
+                0x0000000000019670                pthread_attr_getschedparam
+                0x00000000000196c0                pthread_attr_setschedparam
+                0x0000000000019710                pthread_attr_getschedpolicy
+                0x0000000000019760                pthread_attr_setschedpolicy
+                0x00000000000197b0                pthread_attr_getscope
+                0x0000000000019800                pthread_attr_setscope
+                0x0000000000019850                pthread_condattr_destroy
+                0x0000000000019890                pthread_condattr_init
+                0x00000000000198d0                pthread_cond_broadcast@@PEMU_LIBC_2.3.2
+                0x00000000000198d0                __pthread_cond_broadcast
+                0x0000000000019910                pthread_cond_destroy@@PEMU_LIBC_2.3.2
+                0x0000000000019910                __pthread_cond_destroy
+                0x0000000000019950                pthread_cond_init@@PEMU_LIBC_2.3.2
+                0x0000000000019950                __pthread_cond_init
+                0x00000000000199a0                pthread_cond_signal@@PEMU_LIBC_2.3.2
+                0x00000000000199a0                __pthread_cond_signal
+                0x00000000000199e0                pthread_cond_wait@@PEMU_LIBC_2.3.2
+                0x00000000000199e0                __pthread_cond_wait
+                0x0000000000019a30                __pthread_cond_timedwait
+                0x0000000000019a30                pthread_cond_timedwait@@PEMU_LIBC_2.3.2
+                0x0000000000019a80                pthread_exit
+                0x0000000000019a80                __pthread_exit
+                0x0000000000019ad0                pthread_getschedparam
+                0x0000000000019b20                pthread_setschedparam
+                0x0000000000019b70                pthread_mutex_destroy
+                0x0000000000019bb0                pthread_mutex_init
+                0x0000000000019c00                pthread_mutex_lock
+                0x0000000000019c40                pthread_mutex_unlock
+                0x0000000000019c80                pthread_self
+                0x0000000000019cc0                pthread_setcancelstate
+                0x0000000000019d10                pthread_setcanceltype
+ *fill*         0x0000000000019d51        0xf 90909090
+ .text          0x0000000000019d60       0x78 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-lowlevellock.os)
+                0x0000000000019d60                __lll_lock_wait_private
+                0x0000000000019da0                __lll_unlock_wake_private
+ *fill*         0x0000000000019dd8        0x8 90909090
+ .text          0x0000000000019de0      0x11d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+                0x0000000000019de0                __run_exit_handlers
+                0x0000000000019ed0                __GI_exit
+                0x0000000000019ed0                exit
+ *fill*         0x0000000000019efd        0x3 90909090
+ .text          0x0000000000019f00      0x21a /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+                0x0000000000019f00                __new_exitfn
+                0x000000000001a060                __internal_atexit
+                0x000000000001a0c0                __cxa_atexit_internal
+                0x000000000001a0c0                __cxa_atexit
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x88d
+ .text.unlikely
+                0x0000000000000000      0x88d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                __i686.get_pc_thunk.cx
+
+.text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                __i686.get_pc_thunk.bx
+
+.text.sse2      0x0000000000000000      0xc08
+ .text.sse2     0x0000000000000000      0x678 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+                0x0000000000000000                __memset_chk_sse2
+                0x0000000000000010                __memset_sse2
+ *fill*         0x0000000000000678        0x8 00
+ .text.sse2     0x0000000000000680      0x588 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+                0x0000000000000680                __memset_chk_sse2_rep
+                0x0000000000000690                __memset_sse2_rep
+
+.text.ssse3     0x0000000000000000     0x8bd1
+ .text.ssse3    0x0000000000000000      0xf65 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000000000                __memcpy_chk_ssse3
+                0x0000000000000010                __memcpy_ssse3
+ *fill*         0x0000000000000f65        0xb 00
+ .text.ssse3    0x0000000000000f70      0xf7b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+                0x0000000000000f70                __mempcpy_chk_ssse3
+                0x0000000000000f80                __mempcpy_ssse3
+ *fill*         0x0000000000001eeb        0x5 00
+ .text.ssse3    0x0000000000001ef0     0x10b1 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000001ef0                __memmove_chk_ssse3
+                0x0000000000001f00                __memmove_ssse3
+ *fill*         0x0000000000002fa1        0xf 00
+ .text.ssse3    0x0000000000002fb0      0xfd5 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+                0x0000000000002fb0                __memcpy_chk_ssse3_rep
+                0x0000000000002fc0                __memcpy_ssse3_rep
+ *fill*         0x0000000000003f85        0xb 00
+ .text.ssse3    0x0000000000003f90      0xfeb /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+                0x0000000000003f90                __mempcpy_chk_ssse3_rep
+                0x0000000000003fa0                __mempcpy_ssse3_rep
+ *fill*         0x0000000000004f7b        0x5 00
+ .text.ssse3    0x0000000000004f80     0x1121 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+                0x0000000000004f80                __memmove_chk_ssse3_rep
+                0x0000000000004f90                __memmove_ssse3_rep
+ *fill*         0x00000000000060a1        0xf 00
+ .text.ssse3    0x00000000000060b0     0x146d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+                0x00000000000060b0                __strcmp_ssse3
+ *fill*         0x000000000000751d        0x3 00
+ .text.ssse3    0x0000000000007520     0x16b1 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000007520                __memcmp_ssse3
+
+.text.sse4.2    0x0000000000000000      0xe11
+ .text.sse4.2   0x0000000000000000      0x28b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+                0x0000000000000000                __strcmp_sse4_2
+ *fill*         0x000000000000028b        0x5 00
+ .text.sse4.2   0x0000000000000290      0xb81 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000290                __memcmp_sse4_2
+
+.text.startup   0x0000000000000000      0x280
+ .text.startup  0x0000000000000000      0x280 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x202
+ .text.compat   0x0000000000000000      0x202 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000000                pthread_cond_broadcast@PEMU_LIBC_2.0
+                0x0000000000000040                __pthread_cond_destroy_2_0
+                0x0000000000000040                pthread_cond_destroy@PEMU_LIBC_2.0
+                0x0000000000000080                pthread_cond_init@PEMU_LIBC_2.0
+                0x0000000000000080                __pthread_cond_init_2_0
+                0x00000000000000d0                pthread_cond_signal@PEMU_LIBC_2.0
+                0x00000000000000d0                __pthread_cond_signal_2_0
+                0x0000000000000110                __pthread_cond_wait_2_0
+                0x0000000000000110                pthread_cond_wait@PEMU_LIBC_2.0
+                0x0000000000000160                pthread_cond_timedwait@PEMU_LIBC_2.0
+                0x0000000000000160                __pthread_cond_timedwait_2_0
+                0x00000000000001b0                __pthread_unwind
+
+.fini
+ *(.fini)
+
+.rodata         0x0000000000000000      0xee0
+ *(.rodata)
+ .rodata        0x0000000000000000      0xb80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000b70                _itoa_lower_digits_internal
+ .rodata        0x0000000000000b80       0x80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+ .rodata        0x0000000000000c00      0x2e0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000     0x1300
+ .rodata.str1.1
+                0x0000000000000000     0x1216 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001216       0x14 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x000000000000122a       0x71 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x000000000000129b       0x13 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .rodata.str1.1
+                0x00000000000012ae        0xa /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .rodata.str1.1
+                0x00000000000012b8       0x1d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .rodata.str1.1
+                0x00000000000012d5       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.4  0x0000000000000000     0x1fa2
+ .rodata.str1.4
+                0x0000000000000000     0x1f7c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .rodata.str1.4
+                0x0000000000001f7c       0x26 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+
+.rodata.str1.32
+                0x0000000000000000      0x161
+ .rodata.str1.32
+                0x0000000000000000       0x7b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ *fill*         0x000000000000007b        0x5 00
+ .rodata.str1.32
+                0x0000000000000080       0xe1 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.rodata.sse2    0x0000000000000000      0x500
+ .rodata.sse2   0x0000000000000000      0x280 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .rodata.sse2   0x0000000000000280      0x280 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+
+.rodata.ssse3   0x0000000000000000      0xa80
+ .rodata.ssse3  0x0000000000000000      0x1c0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x1c0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000540      0x1c0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .rodata.ssse3  0x0000000000000700      0x1c0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .rodata.ssse3  0x00000000000008c0      0x1c0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+
+.rodata.sse4.2  0x0000000000000000      0x104
+ .rodata.sse4.2
+                0x0000000000000000      0x104 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x4d60
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x222c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .eh_frame      0x000000000000222c       0x6c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .eh_frame      0x0000000000002298       0xcc /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+ .eh_frame      0x0000000000002364       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002390       0x44 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x00000000000023d4       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strchr.os)
+ .eh_frame      0x0000000000002414       0x48 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+ .eh_frame      0x000000000000245c       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+ .eh_frame      0x0000000000002490       0x48 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+ .eh_frame      0x00000000000024d8       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+ .eh_frame      0x0000000000002518       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002558       0xac /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+ .eh_frame      0x0000000000002604       0x78 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+ .eh_frame      0x000000000000267c       0x64 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+ .eh_frame      0x00000000000026e0       0x68 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+ .eh_frame      0x0000000000002748       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(stpcpy.os)
+ .eh_frame      0x0000000000002774       0x5c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+ .eh_frame      0x00000000000027d0       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x0000000000002804       0xfc /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .eh_frame      0x0000000000002900      0x174 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .eh_frame      0x0000000000002a74      0x174 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .eh_frame      0x0000000000002be8      0x184 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .eh_frame      0x0000000000002d6c      0x194 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .eh_frame      0x0000000000002f00      0x194 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .eh_frame      0x0000000000003094      0x1a4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+ .eh_frame      0x0000000000003238      0x114 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+ .eh_frame      0x000000000000334c       0x48 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000003394       0x48 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+ .eh_frame      0x00000000000033dc      0x27c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000003658       0xf8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000003750       0x50 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2.os)
+ .eh_frame      0x00000000000037a0       0x60 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2-bsf.os)
+ .eh_frame      0x0000000000003800      0x1a4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .eh_frame      0x00000000000039a4       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+ .eh_frame      0x00000000000039d0       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+ .eh_frame      0x00000000000039fc       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+ .eh_frame      0x0000000000003a3c       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .eh_frame      0x0000000000003a7c       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .eh_frame      0x0000000000003abc       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .eh_frame      0x0000000000003afc       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .eh_frame      0x0000000000003b54       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .eh_frame      0x0000000000003bac       0x44 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+ .eh_frame      0x0000000000003bf0       0x38 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000003c28       0x44 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000003c6c       0x44 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000003cb0       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+ .eh_frame      0x0000000000003ce4       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+ .eh_frame      0x0000000000003d10       0x80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .eh_frame      0x0000000000003d90       0xa4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .eh_frame      0x0000000000003e34       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+ .eh_frame      0x0000000000003e68       0xc8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .eh_frame      0x0000000000003f30       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .eh_frame      0x0000000000003f70       0x30 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+ .eh_frame      0x0000000000003fa0       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000003fcc       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000004000       0x64 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ .eh_frame      0x0000000000004064       0xa4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .eh_frame      0x0000000000004108       0x54 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x000000000000415c       0x70 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .eh_frame      0x00000000000041cc       0x74 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .eh_frame      0x0000000000004240       0x80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .eh_frame      0x00000000000042c0       0x4c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+ .eh_frame      0x000000000000430c       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+ .eh_frame      0x0000000000004340       0x84 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .eh_frame      0x00000000000043c4       0x54 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000004418       0xf4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .eh_frame      0x000000000000450c       0x6c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000004578       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .eh_frame      0x00000000000045d0       0x68 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .eh_frame      0x0000000000004638      0x510 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .eh_frame      0x0000000000004b48       0x70 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-lowlevellock.os)
+ .eh_frame      0x0000000000004bb8       0x70 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ .eh_frame      0x0000000000004c28      0x138 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000        0x4
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0x858
+ *(.data)
+ .data          0x0000000000000000      0x834 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strchr.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memchr.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2-bsf.os)
+ .data          0x0000000000000834       0x20 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+                0x0000000000000834                __x86_raw_shared_cache_size
+                0x0000000000000838                __x86_raw_shared_cache_size_half
+                0x000000000000083c                __x86_shared_cache_size
+                0x0000000000000840                __x86_shared_cache_size_half
+                0x0000000000000844                __x86_raw_data_cache_size
+                0x0000000000000848                __x86_raw_data_cache_size_half
+                0x000000000000084c                __x86_data_cache_size
+                0x0000000000000850                __x86_data_cache_size_half
+ .data          0x0000000000000854        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+ .data          0x0000000000000854        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(_exit.os)
+ .data          0x0000000000000854        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+ .data          0x0000000000000854        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+                0x0000000000000854                __libc_missing_32bit_uids
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(environ.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ .data          0x0000000000000858        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+.data.rel.ro    0x0000000000000000      0x27c
+ .data.rel.ro   0x0000000000000000      0x27c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global_ro
+                0x0000000000000000                _rtld_local_ro
+                0x00000000000001c8                __pointer_chk_guard_local
+                0x00000000000001cc                _dl_skip_args
+                0x00000000000001d0                _dl_argv_internal
+                0x00000000000001d0                _dl_argv
+                0x00000000000001d4                _dl_argc
+                0x000000000000024c                __stack_prot
+                0x000000000000026c                _dl_random
+                0x0000000000000270                __libc_stack_end
+                0x0000000000000270                __GI___libc_stack_end
+                0x0000000000000274                __libc_enable_secure_internal
+                0x0000000000000274                __libc_enable_secure
+
+.ctors          0x0000000000000000        0x4
+ .ctors         0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x4
+ .data.rel.local
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x3a8
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000       0x98 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000084                __libc_multiple_libcs
+                0x0000000000000094                ___brk_addr
+                0x0000000000000094                __curbrk
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2-bsf.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .bss           0x0000000000000098        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(environ.os)
+                0x0000000000000098                _environ
+                0x0000000000000098                __environ
+                0x0000000000000098                environ
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+ .bss           0x000000000000009c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+ .bss           0x000000000000009c        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .bss           0x00000000000000a0        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ *fill*         0x00000000000000a8       0x18 00
+ .bss           0x00000000000000c0       0xb8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .bss           0x0000000000000178        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000178        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000178        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .bss           0x0000000000000178        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000178        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+ .bss           0x0000000000000178        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000178        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x000000000000017c        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ *fill*         0x000000000000017c        0x4 00
+ .bss           0x0000000000000180      0x228 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+ *(COMMON)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ COMMON         0x00000000000003a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xac0
+ *(.comment)
+ .comment       0x0000000000000000      0x4df /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .comment       0x00000000000004df       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .comment       0x000000000000050a       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+ .comment       0x0000000000000535       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+ .comment       0x0000000000000560       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+ .comment       0x000000000000058b       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+ .comment       0x00000000000005b6       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .comment       0x00000000000005e1       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+ .comment       0x000000000000060c       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+ .comment       0x0000000000000637       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .comment       0x0000000000000662       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .comment       0x000000000000068d       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .comment       0x00000000000006b8       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(environ.os)
+ .comment       0x00000000000006e3       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .comment       0x000000000000070e       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .comment       0x0000000000000739       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .comment       0x0000000000000764       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .comment       0x000000000000078f       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .comment       0x00000000000007ba       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .comment       0x00000000000007e5       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ .comment       0x0000000000000810       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .comment       0x000000000000083b       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000866       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .comment       0x0000000000000891       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .comment       0x00000000000008bc       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .comment       0x00000000000008e7       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+ .comment       0x0000000000000912       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .comment       0x000000000000093d       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .comment       0x0000000000000968       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .comment       0x0000000000000993       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .comment       0x00000000000009be       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .comment       0x00000000000009e9       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+ .comment       0x0000000000000a14       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .comment       0x0000000000000a3f       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .comment       0x0000000000000a6a       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ .comment       0x0000000000000a95       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+.group          0x0000000000000000        0x8
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.group          0x0000000000000000        0x8
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(divdi3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcpy-ssse3-rep.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mempcpy-ssse3-rep.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memmove-ssse3-rep.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset-sse2-rep.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(strlen-sse2-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getuid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(geteuid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getgid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getegid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fxstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getcwd.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readlink.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(xstatconv.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getpagesize.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(pemu.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(init-arch.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(bsearch.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(opendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(have_o_cloexec.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(cxa_atexit.os)
+
+.gnu.warning.__memset_zero_constant_len_parameter
+                0x0000000000000000       0x5c
+ .gnu.warning.__memset_zero_constant_len_parameter
+                0x0000000000000000       0x5c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(memset.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/libc_pic.a(llseek.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/librtld.map.o elf32-i386)

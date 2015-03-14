@@ -1,0 +1,14 @@
+libc {
+  PEMU_LIBC_2.0 {
+    # c*
+    cfgetispeed; cfgetospeed; cfmakeraw; cfsetispeed; cfsetospeed; cfsetspeed;
+
+    # t*
+    tcdrain; tcflow; tcflush; tcgetattr; tcgetpgrp; tcsendbreak; tcsetattr;
+    tcsetpgrp;
+  }
+  PEMU_LIBC_2.1 {
+    # t*
+    tcgetsid;
+  }
+}

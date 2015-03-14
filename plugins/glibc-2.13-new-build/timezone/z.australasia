@@ -1,0 +1,64 @@
+define australasia-zones
+Australia/Darwin
+Australia/Perth
+Australia/Eucla
+Australia/Brisbane
+Australia/Lindeman
+Australia/Adelaide
+Australia/Hobart
+Australia/Currie
+Australia/Melbourne
+Australia/Sydney
+Australia/Broken_Hill
+Australia/Lord_Howe
+Indian/Christmas
+Pacific/Rarotonga
+Indian/Cocos
+Pacific/Fiji
+Pacific/Gambier
+Pacific/Marquesas
+Pacific/Tahiti
+Pacific/Guam
+Pacific/Tarawa
+Pacific/Enderbury
+Pacific/Kiritimati
+Pacific/Saipan
+Pacific/Majuro
+Pacific/Kwajalein
+Pacific/Truk
+Pacific/Ponape
+Pacific/Kosrae
+Pacific/Nauru
+Pacific/Noumea
+Pacific/Auckland
+Pacific/Chatham
+Pacific/Niue
+Pacific/Norfolk
+Pacific/Palau
+Pacific/Port_Moresby
+Pacific/Pitcairn
+Pacific/Pago_Pago
+Pacific/Apia
+Pacific/Guadalcanal
+Pacific/Fakaofo
+Pacific/Tongatapu
+Pacific/Funafuti
+Pacific/Johnston
+Pacific/Midway
+Pacific/Wake
+Pacific/Efate
+Pacific/Wallis
+endef
+australasia-zones := $(subst $(nl), ,$(australasia-zones))
+ifdef australasia-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(australasia-zones)): \
+australasia $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(australasia-zones)): \
+australasia $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(australasia-zones)): \
+australasia $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(australasia-zones)

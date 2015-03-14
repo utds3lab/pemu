@@ -1,0 +1,129 @@
+define backward-zones
+Africa/Asmera
+Africa/Timbuktu
+America/Argentina/ComodRivadavia
+America/Atka
+America/Buenos_Aires
+America/Catamarca
+America/Coral_Harbour
+America/Cordoba
+America/Ensenada
+America/Fort_Wayne
+America/Indianapolis
+America/Jujuy
+America/Knox_IN
+America/Louisville
+America/Mendoza
+America/Porto_Acre
+America/Rosario
+America/Virgin
+Asia/Ashkhabad
+Asia/Chungking
+Asia/Dacca
+Asia/Katmandu
+Asia/Calcutta
+Asia/Macao
+Asia/Tel_Aviv
+Asia/Saigon
+Asia/Thimbu
+Asia/Ujung_Pandang
+Asia/Ulan_Bator
+Atlantic/Faeroe
+Atlantic/Jan_Mayen
+Australia/ACT
+Australia/Canberra
+Australia/LHI
+Australia/NSW
+Australia/North
+Australia/Queensland
+Australia/South
+Australia/Tasmania
+Australia/Victoria
+Australia/West
+Australia/Yancowinna
+Brazil/Acre
+Brazil/DeNoronha
+Brazil/East
+Brazil/West
+Canada/Atlantic
+Canada/Central
+Canada/East-Saskatchewan
+Canada/Eastern
+Canada/Mountain
+Canada/Newfoundland
+Canada/Pacific
+Canada/Saskatchewan
+Canada/Yukon
+Chile/Continental
+Chile/EasterIsland
+Cuba
+Egypt
+Eire
+Europe/Belfast
+Europe/Tiraspol
+GB
+GB-Eire
+GMT+0
+GMT-0
+GMT0
+Greenwich
+Hongkong
+Iceland
+Iran
+Israel
+Jamaica
+Japan
+Kwajalein
+Libya
+Mexico/BajaNorte
+Mexico/BajaSur
+Mexico/General
+NZ
+NZ-CHAT
+Navajo
+PRC
+Pacific/Samoa
+Pacific/Yap
+Poland
+Portugal
+ROC
+ROK
+Singapore
+Turkey
+UCT
+US/Alaska
+US/Aleutian
+US/Arizona
+US/Central
+US/East-Indiana
+US/Eastern
+US/Hawaii
+US/Indiana-Starke
+US/Michigan
+US/Mountain
+US/Pacific
+US/Samoa
+UTC
+Universal
+W-SU
+Zulu
+endef
+backward-zones := $(subst $(nl), ,$(backward-zones))
+ifdef backward-zones
+$(addprefix $(inst_zonedir)/right/,$(backward-zones)): \
+$(foreach t,$(tzbases),$(addprefix $(inst_zonedir)/right/,$($t-zones)))
+$(addprefix $(inst_zonedir)/posix/,$(backward-zones)): \
+$(foreach t,$(tzbases),$(addprefix $(inst_zonedir)/posix/,$($t-zones)))
+$(addprefix $(inst_zonedir)/,$(backward-zones)): \
+$(foreach t,$(tzbases),$(addprefix $(inst_zonedir)/,$($t-zones)))
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(backward-zones)): \
+backward $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(backward-zones)): \
+backward $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(backward-zones)): \
+backward $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(backward-zones)

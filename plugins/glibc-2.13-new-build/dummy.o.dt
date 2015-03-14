@@ -1,0 +1,11 @@
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/dummy.o: \
+ /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/dummy.c \
+ ../include/libc-symbols.h \
+ /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/config.h \
+ ../sysdeps/wordsize-32/symbol-hacks.h
+
+../include/libc-symbols.h:
+
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/config.h:
+
+../sysdeps/wordsize-32/symbol-hacks.h:

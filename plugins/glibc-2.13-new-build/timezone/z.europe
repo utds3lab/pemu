@@ -1,0 +1,97 @@
+define europe-zones
+Europe/London
+Europe/Jersey
+Europe/Guernsey
+Europe/Isle_of_Man
+Europe/Dublin
+WET
+CET
+MET
+EET
+Europe/Tirane
+Europe/Andorra
+Europe/Vienna
+Europe/Minsk
+Europe/Brussels
+Europe/Sofia
+Europe/Prague
+Europe/Copenhagen
+Atlantic/Faroe
+America/Danmarkshavn
+America/Scoresbysund
+America/Godthab
+America/Thule
+Europe/Tallinn
+Europe/Helsinki
+Europe/Mariehamn
+Europe/Paris
+Europe/Berlin
+Europe/Gibraltar
+Europe/Athens
+Europe/Budapest
+Atlantic/Reykjavik
+Europe/Rome
+Europe/Vatican
+Europe/San_Marino
+Europe/Riga
+Europe/Vaduz
+Europe/Vilnius
+Europe/Luxembourg
+Europe/Malta
+Europe/Chisinau
+Europe/Monaco
+Europe/Amsterdam
+Europe/Oslo
+Arctic/Longyearbyen
+Europe/Warsaw
+Europe/Lisbon
+Atlantic/Azores
+Atlantic/Madeira
+Europe/Bucharest
+Europe/Kaliningrad
+Europe/Moscow
+Europe/Volgograd
+Europe/Samara
+Asia/Yekaterinburg
+Asia/Omsk
+Asia/Novosibirsk
+Asia/Krasnoyarsk
+Asia/Irkutsk
+Asia/Yakutsk
+Asia/Vladivostok
+Asia/Sakhalin
+Asia/Magadan
+Asia/Kamchatka
+Asia/Anadyr
+Europe/Belgrade
+Europe/Ljubljana
+Europe/Podgorica
+Europe/Sarajevo
+Europe/Skopje
+Europe/Zagreb
+Europe/Bratislava
+Europe/Madrid
+Africa/Ceuta
+Atlantic/Canary
+Europe/Stockholm
+Europe/Zurich
+Europe/Istanbul
+Asia/Istanbul
+Europe/Kiev
+Europe/Uzhgorod
+Europe/Zaporozhye
+Europe/Simferopol
+endef
+europe-zones := $(subst $(nl), ,$(europe-zones))
+ifdef europe-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(europe-zones)): \
+europe $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(europe-zones)): \
+europe $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(europe-zones)): \
+europe $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(europe-zones)

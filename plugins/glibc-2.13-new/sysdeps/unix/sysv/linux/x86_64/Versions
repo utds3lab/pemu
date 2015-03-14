@@ -1,0 +1,12 @@
+libc {
+  PEMU_LIBC_2.2.5 {
+    arch_prctl; __arch_prctl;
+
+    ioperm; iopl;
+
+    modify_ldt;
+  }
+  PEMU_LIBC_PRIVATE {
+    __vdso_clock_gettime;
+  }
+}

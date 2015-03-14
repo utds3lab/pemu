@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2009-11-18T18:34:49.543303Z"
+   url="https://temu.ecs.syr.edu/svn/temu/trunk/shared/xed2/xed2-intel64/lib"
+   last-author="hyin"
+   kind="dir"
+   uuid="a87b5988-c112-11de-9550-01289a818cd4"
+   repos="https://temu.ecs.syr.edu/svn"
+   revision="435"/>
+<entry
+   committed-rev="41"
+   name="libxed.a"
+   text-time="2010-02-10T21:30:25.000000Z"
+   committed-date="2009-11-18T18:34:49.543303Z"
+   checksum="24b1f66ca7576a47847f08a5f0ca9f5e"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+</wc-entries>

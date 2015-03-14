@@ -1,0 +1,17 @@
+libdl {
+  PEMU_LIBC_2.0 {
+    dladdr; dlclose; dlerror; dlopen; dlsym;
+  }
+  PEMU_LIBC_2.1 {
+    dlopen; dlvsym;
+  }
+  PEMU_LIBC_2.3.3 {
+    dladdr1; dlinfo;
+  }
+  PEMU_LIBC_2.3.4 {
+    dlmopen;
+  }
+  PEMU_LIBC_PRIVATE {
+    _dlfcn_hook;
+  }
+}

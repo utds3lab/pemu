@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2009-10-27T17:16:28.462614Z"
+   url="https://temu.ecs.syr.edu/svn/temu/trunk/shared/xed2/xed2-ia32/include"
+   last-author="hyin"
+   kind="dir"
+   uuid="a87b5988-c112-11de-9550-01289a818cd4"
+   repos="https://temu.ecs.syr.edu/svn"
+   revision="435"/>
+<entry
+   committed-rev="8"
+   name="xed-encoder-iforms.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="55fe447804b825a8387403d1669bafce"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-gen-table-defs.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="2fc55bd8711d6ae9e3a56d69d03b5b00"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-inst.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="fb5c895a37f56429e50269c5e6947980"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-util.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="4fcc6d5c4c0165a123bd41e9ba8f7e85"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-extension-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="0089b1127fc4f7575432c1ba35777886"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-reg-role-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="30969c00502aec9e24a8f81454d4511b"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-category-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="ef50c4e6c9eeec3dc1f5dfc4e7b4edc0"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-visibility-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="109e855f63c6b86d863cf2fa38dc4eb2"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-reg-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="bd755c403e90e17f0162780460017c3a"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-iclass-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="907553969b3582d4a3697a3fe02f94e6"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-decode.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="3b88c89a9932a2fd695d8e81a571ebe8"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-chip-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="26fb94332ee2ca64d1afbc8d8f39c9d7"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-ctype-map.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="95e7afb84b877143eb9d2b9bfe9eded5"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-iform-map.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="eaab5b8a8513c741a84a9afa56e1fb47"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-machine-mode-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="be08257917237fcd9b337e618bc12ce0"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-nonterminal-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="53ca8c65d611b1fbefe17967ed351563"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-storage.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="1d1f3c04cd7dc153d7bfe605574e4adf"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-immed.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="8d3afb212fdaa78f9f7040ea1bc3290b"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-portability.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="a2ac50cfc2ccbecef512e9562204a469"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-decoded-inst.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="34ce86550196507f62817209ff40e9e0"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-disas.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="c511f553bb0744bf72b2901c09ed242a"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-address-width-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="de36f6f52b5134769fcd957c3ad8aabc"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-action-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="c990fc0b046289c141b209bf138b94c0"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-width-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="0df2eb086efecdfd877f81c387f4db17"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-common-defs.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="a1ddba02505f677ea6750b0e259e67bf"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-convert-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="43cdc53b05e33a756a755d888c2927f5"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-type-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="e4e20aed30a9fa3fd7316ec1b5638379"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-agen.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="000d7398c3294179497ecdd0532f5bcb"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-flag-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="f94acf41a5829eb320e8ef0f0790b551"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-ctype-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="9a84f91deb73a4336f5ec67a8fb43cec"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-iform-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="c70ddc165799112f8bbe3700b9c527de"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-encoder-hl.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="a593858e1cf42ae66151884681767df9"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-reg-class.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="28ba4a42a3176c77172122b933a15537"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-state.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="56d886f5bbc20f1d65c10e3de33c9c73"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-format-options.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="80fe168794911423e850e09539cd56f4"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-init-pointer-names.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="a0c9a5c3619a2b846c96b4706a888771"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-immdis.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="29e827162705d5564aa445717c9b63d7"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-reg-class-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="b01ab30294ad9920a3e78689c69c6930"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-values-interface.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="8e61a906ba0585fc094ab1621b122541"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-decode-cache.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="4179b1139ebcd0660a76d72bdb5d0be9"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-version.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="9a0a82b26102999d56ac0c232e4ab924"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-flag-action-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="5919ce0facceb6e9a9bb68bbedae656b"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-common-hdrs.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="1f7c6c576b3189c78dda6e8f78568332"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-syntax-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="ed84eebd90b2d40fabeba63f59440702"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="6f36b3db35c61785fdba3226d49acf2e"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-error-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="b749aea16c28efa23041bb2a74af4b31"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-flags.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="eb976f2060aca8075630b9b3b082c1f9"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-encode.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="e5a725439ea832d73ac67fc1adb71e49"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-inst-printer.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="ff14b4f4003813decf71e783e79d3506"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-iformfl-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="f07b1f7b5fcafbacb729db5818fd2461"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-interface.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="64d63427453592f32df2845bd9e6322e"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-init.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="6117dd5c5c5edea5a1d7ad4c7e4f80cc"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-operand-action.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="bbe3369eb520eace3dcc2a688216e412"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-types.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="c667b2f895a9a92147d7bb74c1ea0fed"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-attribute-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="32bbf6dd80cb8692ce73edbbe1e4a547"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-encoder-gen-defs.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="15c6687cc2b420aee16c588f100f206a"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:25.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-convert-table-init.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="9131c14fb605c9448254b2fb55b5b575"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:26.000000Z"/>
+<entry
+   committed-rev="8"
+   name="xed-isa-set-enum.h"
+   text-time="2010-02-10T21:30:26.000000Z"
+   committed-date="2009-10-27T17:16:28.462614Z"
+   checksum="2c363c9522a91ef20c197e3c8a04dd64"
+   last-author="hyin"
+   kind="file"
+   prop-time="2010-02-10T21:30:26.000000Z"/>
+</wc-entries>

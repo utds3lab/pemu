@@ -1,0 +1,61 @@
+define southamerica-zones
+America/Argentina/Buenos_Aires
+America/Argentina/Cordoba
+America/Argentina/Salta
+America/Argentina/Tucuman
+America/Argentina/La_Rioja
+America/Argentina/San_Juan
+America/Argentina/Jujuy
+America/Argentina/Catamarca
+America/Argentina/Mendoza
+America/Argentina/San_Luis
+America/Argentina/Rio_Gallegos
+America/Argentina/Ushuaia
+America/Aruba
+America/La_Paz
+America/Noronha
+America/Belem
+America/Santarem
+America/Fortaleza
+America/Recife
+America/Araguaina
+America/Maceio
+America/Bahia
+America/Sao_Paulo
+America/Campo_Grande
+America/Cuiaba
+America/Porto_Velho
+America/Boa_Vista
+America/Manaus
+America/Eirunepe
+America/Rio_Branco
+America/Santiago
+Pacific/Easter
+America/Bogota
+America/Curacao
+America/Guayaquil
+Pacific/Galapagos
+Atlantic/Stanley
+America/Cayenne
+America/Guyana
+America/Asuncion
+America/Lima
+Atlantic/South_Georgia
+America/Paramaribo
+America/Port_of_Spain
+America/Montevideo
+America/Caracas
+endef
+southamerica-zones := $(subst $(nl), ,$(southamerica-zones))
+ifdef southamerica-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(southamerica-zones)): \
+southamerica $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(southamerica-zones)): \
+southamerica $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(southamerica-zones)): \
+southamerica $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(southamerica-zones)

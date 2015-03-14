@@ -1,0 +1,22 @@
+PEMU_LIBC_2.0 {
+  global:
+    dladdr; dlclose; dlerror; dlopen; dlsym;
+  local:
+    *;
+};
+PEMU_LIBC_2.1 {
+  global:
+    dlopen; dlvsym;
+} PEMU_LIBC_2.0;
+PEMU_LIBC_2.3.3 {
+  global:
+    dladdr1; dlinfo;
+} PEMU_LIBC_2.1;
+PEMU_LIBC_2.3.4 {
+  global:
+    dlmopen;
+} PEMU_LIBC_2.3.3;
+PEMU_LIBC_PRIVATE {
+  global:
+    _dlfcn_hook;
+} PEMU_LIBC_2.3.4;

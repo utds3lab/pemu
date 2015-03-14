@@ -1,0 +1,26 @@
+obj-y += translate.o helper.o cpu.o
+obj-y += excp_helper.o fpu_helper.o cc_helper.o int_helper.o svm_helper.o
+obj-y += smm_helper.o misc_helper.o mem_helper.o seg_helper.o
+obj-$(CONFIG_SOFTMMU) += machine.o arch_memory_mapping.o arch_dump.o
+obj-$(CONFIG_KVM) += kvm.o hyperv.o
+obj-$(CONFIG_NO_KVM) += kvm-stub.o
+obj-$(CONFIG_LINUX_USER) += ioport-user.o
+obj-$(CONFIG_BSD_USER) += ioport-user.o
+#jzeng
+obj-y += PEMU/pemu_hook_helper.o PEMU/qemu-pemu.o PEMU/pemu.o PEMU/parse_operand.o PEMU/linux.o
+obj-y += PEMU/PIN/pin.o PEMU/PIN/controlling_and_initializing.o
+obj-y += PEMU/PIN/generic_inspection_api.o
+obj-y += PEMU/PIN/inst_instrumentation_api.o
+obj-y += PEMU/PIN/img.o
+obj-y += PEMU/PIN/trace.o
+obj-y += PEMU/PIN/sec.o
+obj-y += PEMU/PIN/rtn.o
+obj-y += PEMU/PIN/sym.o
+obj-y += PEMU/PIN/bbl.o
+obj-y += PEMU/PIN/reg32.o
+obj-y += PEMU/PIN/pin_objs.o
+obj-y += PEMU/PIN/context_manipulation_api.o PEMU/PIN/systemcall_api.o
+obj-y += PEMU/PIN/thread_api.o
+obj-y += PEMU/PIN/pin_qemu.o
+obj-y += PEMU/hashTable.o PEMU/DISAS/disas.o PEMU/DISAS/disas_cache.o
+obj-y += PEMU/INTROSPECT/introspect.o PEMU/INTROSPECT/semaphore_pemu.o PEMU/INTROSPECT/dispsys.o

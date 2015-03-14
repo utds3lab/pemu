@@ -1,0 +1,73 @@
+define africa-zones
+Africa/Algiers
+Africa/Luanda
+Africa/Porto-Novo
+Africa/Gaborone
+Africa/Ouagadougou
+Africa/Bujumbura
+Africa/Douala
+Atlantic/Cape_Verde
+Africa/Bangui
+Africa/Ndjamena
+Indian/Comoro
+Africa/Kinshasa
+Africa/Lubumbashi
+Africa/Brazzaville
+Africa/Abidjan
+Africa/Djibouti
+Africa/Cairo
+Africa/Malabo
+Africa/Asmara
+Africa/Addis_Ababa
+Africa/Libreville
+Africa/Banjul
+Africa/Accra
+Africa/Conakry
+Africa/Bissau
+Africa/Nairobi
+Africa/Maseru
+Africa/Monrovia
+Africa/Tripoli
+Indian/Antananarivo
+Africa/Blantyre
+Africa/Bamako
+Africa/Nouakchott
+Indian/Mauritius
+Indian/Mayotte
+Africa/Casablanca
+Africa/El_Aaiun
+Africa/Maputo
+Africa/Windhoek
+Africa/Niamey
+Africa/Lagos
+Indian/Reunion
+Africa/Kigali
+Atlantic/St_Helena
+Africa/Sao_Tome
+Africa/Dakar
+Indian/Mahe
+Africa/Freetown
+Africa/Mogadishu
+Africa/Johannesburg
+Africa/Khartoum
+Africa/Mbabane
+Africa/Dar_es_Salaam
+Africa/Lome
+Africa/Tunis
+Africa/Kampala
+Africa/Lusaka
+Africa/Harare
+endef
+africa-zones := $(subst $(nl), ,$(africa-zones))
+ifdef africa-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(africa-zones)): \
+africa $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(africa-zones)): \
+africa $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(africa-zones)): \
+africa $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(africa-zones)

@@ -1,0 +1,21 @@
+define systemv-zones
+endef
+systemv-zones := $(subst $(nl), ,$(systemv-zones))
+ifdef systemv-zones
+$(addprefix $(inst_zonedir)/right/,$(systemv-zones)): \
+$(foreach t,$(tzbases),$(addprefix $(inst_zonedir)/right/,$($t-zones)))
+$(addprefix $(inst_zonedir)/posix/,$(systemv-zones)): \
+$(foreach t,$(tzbases),$(addprefix $(inst_zonedir)/posix/,$($t-zones)))
+$(addprefix $(inst_zonedir)/,$(systemv-zones)): \
+$(foreach t,$(tzbases),$(addprefix $(inst_zonedir)/,$($t-zones)))
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(systemv-zones)): \
+systemv $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(systemv-zones)): \
+systemv $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(systemv-zones)): \
+systemv $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(systemv-zones)

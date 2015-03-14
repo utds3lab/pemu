@@ -1,0 +1,46 @@
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/misc/rtld-pemu.os: \
+ ../sysdeps/unix/sysv/linux/i386/pemu.c ../include/libc-symbols.h \
+ /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/config.h \
+ ../sysdeps/wordsize-32/symbol-hacks.h ../include/unistd.h \
+ ../posix/unistd.h ../include/features.h ../include/sys/cdefs.h \
+ ../misc/sys/cdefs.h ../sysdeps/wordsize-32/bits/wordsize.h \
+ ../include/gnu/stubs.h ../nptl/sysdeps/unix/sysv/linux/bits/posix_opt.h \
+ ../sysdeps/unix/sysv/linux/i386/bits/environments.h ../bits/types.h \
+ ../bits/typesizes.h /usr/lib/gcc/i686-linux-gnu/4.6.1/include/stddef.h \
+ ../bits/confname.h ../include/getopt.h ../posix/getopt.h
+
+../include/libc-symbols.h:
+
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/config.h:
+
+../sysdeps/wordsize-32/symbol-hacks.h:
+
+../include/unistd.h:
+
+../posix/unistd.h:
+
+../include/features.h:
+
+../include/sys/cdefs.h:
+
+../misc/sys/cdefs.h:
+
+../sysdeps/wordsize-32/bits/wordsize.h:
+
+../include/gnu/stubs.h:
+
+../nptl/sysdeps/unix/sysv/linux/bits/posix_opt.h:
+
+../sysdeps/unix/sysv/linux/i386/bits/environments.h:
+
+../bits/types.h:
+
+../bits/typesizes.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.6.1/include/stddef.h:
+
+../bits/confname.h:
+
+../include/getopt.h:
+
+../posix/getopt.h:

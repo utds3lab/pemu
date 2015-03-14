@@ -1,0 +1,26 @@
+define antarctica-zones
+Antarctica/Casey
+Antarctica/Davis
+Antarctica/Mawson
+Indian/Kerguelen
+Antarctica/DumontDUrville
+Antarctica/Syowa
+Antarctica/Vostok
+Antarctica/Rothera
+Antarctica/Palmer
+Antarctica/McMurdo
+Antarctica/South_Pole
+endef
+antarctica-zones := $(subst $(nl), ,$(antarctica-zones))
+ifdef antarctica-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(antarctica-zones)): \
+antarctica $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(antarctica-zones)): \
+antarctica $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(antarctica-zones)): \
+antarctica $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(antarctica-zones)

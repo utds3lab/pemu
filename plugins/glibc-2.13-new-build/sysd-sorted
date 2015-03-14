@@ -1,0 +1,5 @@
+$(common-objpfx)sysd-sorted: $(wildcard $(..)resolv/Depend)
+$(common-objpfx)sysd-sorted: $(wildcard $(..)nis/Depend)
+$(common-objpfx)sysd-sorted: $(wildcard $(..)nscd/Depend)
+sorted-subdirs := csu iconv locale localedata iconvdata assert ctype intl catgets math setjmp signal stdlib stdio-common libio dlfcn malloc string wcsmbs timezone time dirent grp pwd posix io termios resource misc socket sysvipc gmon gnulib wctype manual shadow gshadow po argp crypt nptl resolv nss rt conform debug libidn nptl_db inet hesiod sunrpc nis nscd streams login elf
+sysd-sorted-done := t

@@ -1,0 +1,1157 @@
+Archive member included because of file (symbol)
+
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (rtld_errno)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__udivdi3)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__profil)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__profile_frequency)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__GI___xstat64)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__open)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__close)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__libc_read)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__libc_write)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__lseek)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__access)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os) (__libc_fcntl)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getcwd)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os) (__readlink)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os) (__xstat64_conv)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os) (__GI___lxstat)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getpagesize)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__mmap)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__munmap)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__mprotect)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__uname)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (_exit)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getpid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getuid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__geteuid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getgid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__getegid)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__environ)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__sigsetjmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (__longjmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strchr)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strcmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strlen)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (strnlen)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memchr)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memcmp)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memmove)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memset)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mempcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (mempcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (stpcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcpy.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (memcpy)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os (rawmemchr)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os) (__opendir)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os) (__closedir)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os) (__readdir)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os) (__getdents)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os) (__have_o_cloexec)
+/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+                              /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os) (__lseek64)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .gnu.linkonce.t.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+LOAD /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/i686-linux-gnu/4.6.1/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rel.text
+ *(.rel.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rel.ifunc
+ *(.rel.ifunc)
+
+.rel.plt
+ *(.rel.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.text           0x0000000000000000    0x17cac
+ *(.text .stub)
+ .text          0x0000000000000000    0x14c55 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000020                _start
+                0x0000000000000027                _dl_start_user
+                0x0000000000000070                _dl_initial_error_catch_tsd
+                0x0000000000006070                _dl_dst_count
+                0x0000000000006150                _dl_dst_substitute
+                0x0000000000006680                _dl_init_paths
+                0x0000000000006a90                _dl_map_object
+                0x0000000000007360                _dl_rtld_di_serinfo
+                0x0000000000007520                _dl_cache_libcmp
+                0x0000000000007680                _dl_load_cache_lookup
+                0x0000000000007c50                _dl_unload_cache
+                0x0000000000008580                _dl_lookup_symbol_x
+                0x00000000000093d0                _dl_setup_hash
+                0x00000000000094b0                _dl_add_to_namespace_list
+                0x0000000000009560                _dl_new_object
+                0x00000000000098a0                _dl_try_allocate_static_tls
+                0x00000000000099a0                _dl_allocate_static_tls
+                0x00000000000099f0                _dl_nothread_init_static_tls
+                0x0000000000009ab0                _dl_protect_relro
+                0x0000000000009b30                _dl_reloc_bad_type
+                0x0000000000009ba0                _dl_relocate_object
+                0x000000000000b8a0                _dl_map_object_deps
+                0x000000000000c7d0                _dl_fixup
+                0x000000000000c970                _dl_profile_fixup
+                0x000000000000cee0                _dl_call_pltexit
+                0x000000000000cff0                _dl_signal_error
+                0x000000000000d1b0                _dl_signal_cerror
+                0x000000000000d270                _dl_catch_error
+                0x000000000000d350                _dl_receive_error
+                0x000000000000d530                _dl_init_internal
+                0x000000000000d530                _dl_init
+                0x000000000000d660                _dl_sort_fini
+                0x000000000000d8e0                _dl_fini
+                0x000000000000dce0                _dl_debug_state
+                0x000000000000dce0                __GI__dl_debug_state
+                0x000000000000dcf0                _dl_debug_initialize
+                0x000000000000e2a0                _dl_sysdep_read_whole_file
+                0x000000000000e370                _dl_debug_printf
+                0x000000000000e3b0                _dl_debug_printf_c
+                0x000000000000e3f0                _dl_dprintf
+                0x000000000000e420                _dl_name_match_p
+                0x000000000000e490                _dl_higher_prime_number
+                0x000000000000e880                _dl_check_map_versions
+                0x000000000000ecf0                _dl_check_all_versions
+                0x000000000000ed60                _dl_start_profile
+                0x000000000000f5e0                _dl_mcount_internal
+                0x000000000000f5e0                _dl_mcount
+                0x000000000000f820                _dl_resolve_conflicts
+                0x000000000000f9a0                __tls_get_addr
+                0x000000000000f9b0                _dl_next_tls_modid
+                0x000000000000fac0                _dl_determine_tlsoffset
+                0x000000000000fcf0                __GI__dl_tls_setup
+                0x000000000000fcf0                _dl_tls_setup
+                0x000000000000fdc0                _dl_get_tls_static_info
+                0x000000000000fde0                _dl_allocate_tls_storage
+                0x000000000000fed0                __GI__dl_allocate_tls_init
+                0x000000000000fed0                _dl_allocate_tls_init
+                0x0000000000010110                __GI__dl_allocate_tls
+                0x0000000000010110                _dl_allocate_tls
+                0x0000000000010130                _dl_deallocate_tls
+                0x0000000000010130                __GI__dl_deallocate_tls
+                0x00000000000101c0                _dl_update_slotinfo
+                0x00000000000104d0                ___tls_get_addr_internal
+                0x00000000000104d0                ___tls_get_addr
+                0x0000000000010540                _dl_tls_get_addr_soft
+                0x00000000000105d0                _dl_add_to_slotinfo
+                0x00000000000106d0                _dl_get_origin
+                0x0000000000010840                _dl_scope_free
+                0x0000000000010910                _dl_make_stack_executable
+                0x0000000000010910                __GI__dl_make_stack_executable
+                0x0000000000010a30                _dl_check_caller
+                0x0000000000010dd0                _dl_open
+                0x00000000000110f0                _dl_addr_inside_object
+                0x0000000000011aa0                _dl_close_worker
+                0x0000000000012840                _dl_close
+                0x00000000000128f0                _dl_runtime_resolve
+                0x0000000000012910                _dl_runtime_profile
+                0x00000000000129d0                _dl_sysdep_start
+                0x0000000000012e70                _dl_sysdep_start_cleanup
+                0x0000000000012e80                _dl_show_auxv
+                0x00000000000130c0                _dl_important_hwcaps
+                0x00000000000137c0                _dl_discover_osversion
+                0x00000000000139c0                _dl_next_ld_env_entry
+                0x0000000000013a00                unsetenv
+                0x0000000000013a80                __libc_memalign
+                0x0000000000013b90                malloc
+                0x0000000000013bc0                calloc
+                0x0000000000013c20                free
+                0x0000000000013c80                __sigjmp_save
+                0x0000000000013c90                __GI___assert_fail
+                0x0000000000013c90                __assert_fail
+                0x0000000000013d00                realloc
+                0x0000000000013da0                __strtoul_internal
+                0x0000000000013f20                _itoa
+                0x0000000000013fe0                __strerror_r
+                0x00000000000140c0                __GI___assert_perror_fail
+                0x00000000000140c0                __assert_perror_fail
+                0x0000000000014160                __strsep
+                0x0000000000014160                strsep
+                0x0000000000014160                __strsep_g
+                0x0000000000014220                __GI___chk_fail
+                0x0000000000014220                __chk_fail
+                0x0000000000014240                __brk
+                0x0000000000014240                brk
+                0x00000000000142a0                sbrk
+                0x00000000000142a0                __sbrk
+                0x0000000000014340                _dl_make_tlsdesc_dynamic
+                0x0000000000014630                _dl_tlsdesc_resolve_abs_plus_addend_fixup
+                0x0000000000014710                _dl_tlsdesc_resolve_rel_fixup
+                0x00000000000148c0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000014a70                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000014ad0                _dl_unmap
+                0x0000000000014b60                _dl_tlsdesc_return
+                0x0000000000014b70                _dl_tlsdesc_undefweak
+                0x0000000000014b80                _dl_tlsdesc_dynamic
+                0x0000000000014be0                _dl_tlsdesc_resolve_abs_plus_addend
+                0x0000000000014c00                _dl_tlsdesc_resolve_rel
+                0x0000000000014c20                _dl_tlsdesc_resolve_rela
+                0x0000000000014c40                _dl_tlsdesc_resolve_hold
+ *fill*         0x0000000000014c55        0xb 90909090
+ .text          0x0000000000014c60      0x140 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000014d70                __libc_check_standard_fds
+ .text          0x0000000000014da0        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+ .text          0x0000000000014da0      0x3d3 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+                0x0000000000014f70                __divdi3@PEMU_LIBC_2.0
+                0x0000000000014f70                __divdi3_internal
+                0x0000000000014ff0                __moddi3@PEMU_LIBC_2.0
+                0x0000000000014ff0                __moddi3_internal
+                0x0000000000015100                __udivdi3@PEMU_LIBC_2.0
+                0x0000000000015100                __udivdi3_internal
+                0x0000000000015140                __umoddi3_internal
+                0x0000000000015140                __umoddi3@PEMU_LIBC_2.0
+ *fill*         0x0000000000015173        0xd 90909090
+ .text          0x0000000000015180      0x150 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+                0x00000000000151d0                __profil
+                0x00000000000151d0                profil
+ .text          0x00000000000152d0       0xaa /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x00000000000152d0                __profile_frequency
+ *fill*         0x000000000001537a        0x6 90909090
+ .text          0x0000000000015380       0xd5 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+                0x0000000000015380                ___xstat64
+                0x0000000000015380                __xstat64
+                0x0000000000015380                __GI___xstat64
+ *fill*         0x0000000000015455        0xb 90909090
+ .text          0x0000000000015460       0xd5 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+                0x0000000000015460                ___fxstat64
+                0x0000000000015460                __GI___fxstat64
+                0x0000000000015460                __fxstat64
+ *fill*         0x0000000000015535        0xb 90909090
+ .text          0x0000000000015540       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+                0x0000000000015540                __open
+                0x0000000000015540                __libc_open
+                0x0000000000015540                open
+ *fill*         0x0000000000015577        0x9 90909090
+ .text          0x0000000000015580       0x31 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+                0x0000000000015580                __libc_close
+                0x0000000000015580                __close
+                0x0000000000015580                close
+ *fill*         0x00000000000155b1        0xf 90909090
+ .text          0x00000000000155c0       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+                0x00000000000155c0                __read
+                0x00000000000155c0                __libc_read
+                0x00000000000155c0                read
+ *fill*         0x00000000000155f7        0x9 90909090
+ .text          0x0000000000015600       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+                0x0000000000015600                __write
+                0x0000000000015600                write
+                0x0000000000015600                __libc_write
+ *fill*         0x0000000000015637        0x9 90909090
+ .text          0x0000000000015640       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+                0x0000000000015640                lseek
+                0x0000000000015640                __lseek
+                0x0000000000015640                __libc_lseek
+ *fill*         0x0000000000015677        0x9 90909090
+ .text          0x0000000000015680       0x35 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+                0x0000000000015680                access
+                0x0000000000015680                __access
+ *fill*         0x00000000000156b5        0xb 90909090
+ .text          0x00000000000156c0      0x24d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+                0x00000000000156c0                __libc_fcntl
+                0x00000000000156c0                __fcntl
+                0x00000000000156c0                fcntl
+ *fill*         0x000000000001590d        0x3 90909090
+ .text          0x0000000000015910      0x74a /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+                0x0000000000015f30                __getcwd
+                0x0000000000015f30                getcwd
+ *fill*         0x000000000001605a        0x6 90909090
+ .text          0x0000000000016060       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+                0x0000000000016060                readlink
+                0x0000000000016060                __readlink
+ *fill*         0x0000000000016097        0x9 90909090
+ .text          0x00000000000160a0      0x30b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+                0x00000000000160a0                __xstat_conv
+                0x00000000000161d0                __xstat64_conv
+                0x00000000000162a0                __xstat32_conv
+ *fill*         0x00000000000163ab        0x5 90909090
+ .text          0x00000000000163b0      0x137 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+                0x00000000000163b0                __GI___lxstat
+                0x00000000000163b0                _lxstat
+                0x00000000000163b0                __lxstat
+ *fill*         0x00000000000164e7        0x9 90909090
+ .text          0x00000000000164f0       0x1c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+                0x00000000000164f0                getpagesize
+                0x00000000000164f0                __getpagesize
+ *fill*         0x000000000001650c        0x4 90909090
+ .text          0x0000000000016510       0x31 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+                0x0000000000016510                __mmap
+                0x0000000000016510                mmap
+ *fill*         0x0000000000016541        0xf 90909090
+ .text          0x0000000000016550       0x35 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000016550                munmap
+                0x0000000000016550                __munmap
+ *fill*         0x0000000000016585        0xb 90909090
+ .text          0x0000000000016590       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000016590                __mprotect
+                0x0000000000016590                mprotect
+ *fill*         0x00000000000165c7        0x9 90909090
+ .text          0x00000000000165d0       0x31 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+                0x00000000000165d0                uname
+                0x00000000000165d0                __uname
+ *fill*         0x0000000000016601        0x3 90909090
+ .text          0x0000000000016604       0x13 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000016604                _Exit
+                0x0000000000016604                _exit
+ *fill*         0x0000000000016617        0x9 90909090
+ .text          0x0000000000016620        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000016620                __getpid
+                0x0000000000016620                getpid
+ *fill*         0x0000000000016628        0x8 90909090
+ .text          0x0000000000016630       0x42 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+                0x0000000000016630                getuid
+                0x0000000000016630                __getuid
+ *fill*         0x0000000000016672        0xe 90909090
+ .text          0x0000000000016680       0x42 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+                0x0000000000016680                geteuid
+                0x0000000000016680                __geteuid
+ *fill*         0x00000000000166c2        0xe 90909090
+ .text          0x00000000000166d0       0x42 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+                0x00000000000166d0                getgid
+                0x00000000000166d0                __getgid
+ *fill*         0x0000000000016712        0xe 90909090
+ .text          0x0000000000016720       0x42 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+                0x0000000000016720                getegid
+                0x0000000000016720                __getegid
+ *fill*         0x0000000000016762        0x2 90909090
+ .text          0x0000000000016764        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x0000000000016764        0xc 90909090
+ .text          0x0000000000016770       0x1f /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000016770                __sigsetjmp
+ *fill*         0x000000000001678f        0x1 90909090
+ .text          0x0000000000016790       0x1b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000016790                __longjmp
+ *fill*         0x00000000000167ab        0x5 90909090
+ .text          0x00000000000167b0      0x2c7 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x00000000000167c0                __libc_sigaction
+                0x0000000000016a30                sigaction
+                0x0000000000016a30                __sigaction
+ *fill*         0x0000000000016a77        0x9 90909090
+ .text          0x0000000000016a80      0x167 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strchr.os)
+                0x0000000000016a80                index
+                0x0000000000016a80                strchr
+ *fill*         0x0000000000016be7        0x9 90909090
+ .text          0x0000000000016bf0       0x25 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x0000000000016bf0                strcmp
+ *fill*         0x0000000000016c15        0xb 90909090
+ .text          0x0000000000016c20       0x20 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+                0x0000000000016c20                strcpy
+ .text          0x0000000000016c40       0xbb /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strlen.os)
+                0x0000000000016c40                strlen
+ *fill*         0x0000000000016cfb        0x5 90909090
+ .text          0x0000000000016d00       0x96 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x0000000000016d00                __strnlen
+                0x0000000000016d00                strnlen
+ *fill*         0x0000000000016d96        0xa 90909090
+ .text          0x0000000000016da0      0x19b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memchr.os)
+                0x0000000000016da0                memchr
+                0x0000000000016da0                __memchr
+                0x0000000000016da0                __ubp_memchr
+ *fill*         0x0000000000016f3b        0x5 90909090
+ .text          0x0000000000016f40      0x2d3 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000016f40                bcmp
+                0x0000000000016f40                memcmp
+ *fill*         0x0000000000017213        0xd 90909090
+ .text          0x0000000000017220       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memmove.os)
+                0x0000000000017220                memmove
+ *fill*         0x0000000000017278        0x8 90909090
+ .text          0x0000000000017280       0x43 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000017280                memset
+ *fill*         0x00000000000172c3        0xd 90909090
+ .text          0x00000000000172d0       0x22 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mempcpy.os)
+                0x00000000000172d0                mempcpy
+                0x00000000000172d0                __mempcpy
+ *fill*         0x00000000000172f2        0xe 90909090
+ .text          0x0000000000017300       0x41 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x0000000000017300                stpcpy
+                0x0000000000017300                __stpcpy
+ *fill*         0x0000000000017341        0xf 90909090
+ .text          0x0000000000017350       0x65 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcpy.os)
+                0x0000000000017350                memcpy
+ *fill*         0x00000000000173b5        0xb 90909090
+ .text          0x00000000000173c0       0xc6 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+                0x00000000000173c0                __rawmemchr
+                0x00000000000173c0                rawmemchr
+ *fill*         0x0000000000017486        0xa 90909090
+ .text          0x0000000000017490       0x37 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000017490                setitimer
+                0x0000000000017490                __setitimer
+ *fill*         0x00000000000174c7        0x9 90909090
+ .text          0x00000000000174d0      0x31a /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+                0x00000000000174d0                __alloc_dir
+                0x0000000000017630                __opendir
+                0x0000000000017630                opendir
+ *fill*         0x00000000000177ea        0x6 90909090
+ .text          0x00000000000177f0       0x51 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+                0x00000000000177f0                __closedir
+                0x00000000000177f0                closedir
+ *fill*         0x0000000000017841        0xf 90909090
+ .text          0x0000000000017850       0x8d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+                0x0000000000017850                readdir
+                0x0000000000017850                __readdir
+ *fill*         0x00000000000178dd        0x3 90909090
+ .text          0x00000000000178e0      0x345 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+                0x00000000000178e0                __getdents
+ *fill*         0x0000000000017c25        0x3 90909090
+ .text          0x0000000000017c28        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+ *fill*         0x0000000000017c28        0x8 90909090
+ .text          0x0000000000017c30       0x7c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+                0x0000000000017c30                __llseek
+                0x0000000000017c30                __lseek64
+                0x0000000000017c30                __libc_lseek64
+                0x0000000000017c30                llseek
+                0x0000000000017c30                lseek64
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x88d
+ .text.unlikely
+                0x0000000000000000      0x88d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                __i686.get_pc_thunk.cx
+
+.text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                __i686.get_pc_thunk.bx
+
+.fini
+ *(.fini)
+
+.rodata         0x0000000000000000      0xc00
+ *(.rodata)
+ .rodata        0x0000000000000000      0xb80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000b70                _itoa_lower_digits_internal
+ .rodata        0x0000000000000b80       0x80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+
+.rodata.str1.1  0x0000000000000000     0x1264
+ .rodata.str1.1
+                0x0000000000000000     0x1216 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001216       0x14 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x000000000000122a       0x13 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .rodata.str1.1
+                0x000000000000123d        0xa /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .rodata.str1.1
+                0x0000000000001247       0x1d /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+
+.rodata.str1.4  0x0000000000000000     0x1fa2
+ .rodata.str1.4
+                0x0000000000000000     0x1f7c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .rodata.str1.4
+                0x0000000000001f7c       0x26 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+
+.rodata.str1.32
+                0x0000000000000000      0x161
+ .rodata.str1.32
+                0x0000000000000000       0x7b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ *fill*         0x000000000000007b        0x5 00
+ .rodata.str1.32
+                0x0000000000000080       0xe1 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x30a8
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x222c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .eh_frame      0x000000000000222c       0x6c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000002298       0xcc /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+ .eh_frame      0x0000000000002364       0x70 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x00000000000023d4       0x54 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000002428       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .eh_frame      0x0000000000002480       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .eh_frame      0x00000000000024d8       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+ .eh_frame      0x000000000000250c       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+ .eh_frame      0x0000000000002538       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+ .eh_frame      0x000000000000256c       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+ .eh_frame      0x00000000000025a0       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+ .eh_frame      0x00000000000025d4       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000002600       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .eh_frame      0x0000000000002658       0xa4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .eh_frame      0x00000000000026fc       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+ .eh_frame      0x0000000000002730       0xc8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .eh_frame      0x00000000000027f8       0x58 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .eh_frame      0x0000000000002850       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .eh_frame      0x0000000000002890       0x30 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+ .eh_frame      0x00000000000028c0       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x00000000000028ec       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000002920       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x000000000000294c       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x0000000000002978       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+ .eh_frame      0x00000000000029b8       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .eh_frame      0x00000000000029f8       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .eh_frame      0x0000000000002a38       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .eh_frame      0x0000000000002a78       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000002aa4       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000002ad0       0x7c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x0000000000002b4c       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000002b8c       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x0000000000002bb8       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+ .eh_frame      0x0000000000002bec       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strlen.os)
+ .eh_frame      0x0000000000002c18       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000002c58       0x40 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x0000000000002c98       0x90 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x0000000000002d28       0x48 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memmove.os)
+ .eh_frame      0x0000000000002d70       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x0000000000002da4       0x38 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mempcpy.os)
+ .eh_frame      0x0000000000002ddc       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000002e08       0x2c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .eh_frame      0x0000000000002e34       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .eh_frame      0x0000000000002e68       0x34 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000002e9c       0x80 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .eh_frame      0x0000000000002f1c       0x50 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000002f6c       0x6c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .eh_frame      0x0000000000002fd8       0x6c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .eh_frame      0x0000000000003044       0x64 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0x838
+ *(.data)
+ .data          0x0000000000000000      0x834 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000000834        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000000834        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+                0x0000000000000834                __libc_missing_32bit_uids
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mempcpy.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+ .data          0x0000000000000838        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+
+.data.rel.ro    0x0000000000000000      0x27c
+ .data.rel.ro   0x0000000000000000      0x27c /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global_ro
+                0x0000000000000000                _rtld_local_ro
+                0x00000000000001c8                __pointer_chk_guard_local
+                0x00000000000001cc                _dl_skip_args
+                0x00000000000001d0                _dl_argv_internal
+                0x00000000000001d0                _dl_argv
+                0x00000000000001d4                _dl_argc
+                0x000000000000024c                __stack_prot
+                0x000000000000026c                _dl_random
+                0x0000000000000270                __libc_stack_end
+                0x0000000000000270                __GI___libc_stack_end
+                0x0000000000000274                __libc_enable_secure_internal
+                0x0000000000000274                __libc_enable_secure
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000       0xbc
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000       0x98 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+                0x0000000000000084                __libc_multiple_libcs
+                0x0000000000000094                ___brk_addr
+                0x0000000000000094                __curbrk
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+ .bss           0x0000000000000098        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+ .bss           0x0000000000000098       0x10 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+ .bss           0x00000000000000a8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x00000000000000a8        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .bss           0x00000000000000ac        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .bss           0x00000000000000b4        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .bss           0x00000000000000b4        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-environ.os)
+                0x00000000000000b4                _environ
+                0x00000000000000b4                __environ
+                0x00000000000000b4                environ
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mempcpy.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .bss           0x00000000000000b8        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x00000000000000b8        0x4 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .bss           0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .bss           0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .bss           0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+ .bss           0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+ *(COMMON)
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ COMMON         0x00000000000000bc        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0x968
+ *(.comment)
+ .comment       0x0000000000000000      0x4df /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .comment       0x00000000000004df       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x000000000000050a       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x0000000000000535       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+ .comment       0x0000000000000560       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x000000000000058b       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x00000000000005b6       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .comment       0x00000000000005e1       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .comment       0x000000000000060c       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .comment       0x0000000000000637       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .comment       0x0000000000000662       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .comment       0x000000000000068d       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .comment       0x00000000000006b8       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .comment       0x00000000000006e3       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+ .comment       0x000000000000070e       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+ .comment       0x0000000000000739       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .comment       0x0000000000000764       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .comment       0x000000000000078f       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .comment       0x00000000000007ba       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x00000000000007e5       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000810       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+ .comment       0x000000000000083b       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .comment       0x0000000000000866       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .comment       0x0000000000000891       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x00000000000008bc       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .comment       0x00000000000008e7       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .comment       0x0000000000000912       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+ .comment       0x000000000000093d       0x2b /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+
+.group          0x0000000000000000        0x8
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.group          0x0000000000000000        0x8
+ .group         0x0000000000000000        0x8 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-divdi3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fxstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getcwd.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readlink.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-xstatconv.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpagesize.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getuid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-geteuid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getgid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getegid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-opendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-have_o_cloexec.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/rtld-libc.a(rtld-llseek.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/yufei/qemu-1.5.3_new/plugins/glibc-2.13-new-build/elf/librtld.os elf32-i386)

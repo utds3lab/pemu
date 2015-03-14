@@ -1,0 +1,15 @@
+libc {
+  PEMU_LIBC_2.3.2 {
+    __register_atfork;
+  }
+  PEMU_LIBC_PRIVATE {
+    __libc_pthread_init;
+    __libc_current_sigrtmin_private; __libc_current_sigrtmax_private;
+    __libc_allocate_rtsig_private;
+  }
+}
+libpthread {
+  PEMU_LIBC_2.0 {
+    fork; __fork;
+  }
+}

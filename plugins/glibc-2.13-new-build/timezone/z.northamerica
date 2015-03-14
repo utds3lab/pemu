@@ -1,0 +1,116 @@
+define northamerica-zones
+EST
+MST
+HST
+EST5EDT
+CST6CDT
+MST7MDT
+PST8PDT
+America/New_York
+America/Chicago
+America/North_Dakota/Center
+America/North_Dakota/New_Salem
+America/Denver
+America/Los_Angeles
+America/Juneau
+America/Yakutat
+America/Anchorage
+America/Nome
+America/Adak
+Pacific/Honolulu
+America/Phoenix
+America/Shiprock
+America/Boise
+America/Indiana/Indianapolis
+America/Indiana/Marengo
+America/Indiana/Vincennes
+America/Indiana/Tell_City
+America/Indiana/Petersburg
+America/Indiana/Knox
+America/Indiana/Winamac
+America/Indiana/Vevay
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Detroit
+America/Menominee
+America/St_Johns
+America/Goose_Bay
+America/Halifax
+America/Glace_Bay
+America/Moncton
+America/Blanc-Sablon
+America/Montreal
+America/Toronto
+America/Thunder_Bay
+America/Nipigon
+America/Rainy_River
+America/Atikokan
+America/Winnipeg
+America/Regina
+America/Swift_Current
+America/Edmonton
+America/Vancouver
+America/Dawson_Creek
+America/Pangnirtung
+America/Iqaluit
+America/Resolute
+America/Rankin_Inlet
+America/Cambridge_Bay
+America/Yellowknife
+America/Inuvik
+America/Whitehorse
+America/Dawson
+America/Cancun
+America/Merida
+America/Monterrey
+America/Mexico_City
+America/Chihuahua
+America/Hermosillo
+America/Mazatlan
+America/Tijuana
+America/Anguilla
+America/Antigua
+America/Nassau
+America/Barbados
+America/Belize
+Atlantic/Bermuda
+America/Cayman
+America/Costa_Rica
+America/Havana
+America/Dominica
+America/Santo_Domingo
+America/El_Salvador
+America/Grenada
+America/Guadeloupe
+America/St_Barthelemy
+America/Marigot
+America/Guatemala
+America/Port-au-Prince
+America/Tegucigalpa
+America/Jamaica
+America/Martinique
+America/Montserrat
+America/Managua
+America/Panama
+America/Puerto_Rico
+America/St_Kitts
+America/St_Lucia
+America/Miquelon
+America/St_Vincent
+America/Grand_Turk
+America/Tortola
+America/St_Thomas
+endef
+northamerica-zones := $(subst $(nl), ,$(northamerica-zones))
+ifdef northamerica-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(northamerica-zones)): \
+northamerica $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(northamerica-zones)): \
+northamerica $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(northamerica-zones)): \
+northamerica $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(northamerica-zones)

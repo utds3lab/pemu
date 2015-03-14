@@ -1,0 +1,10 @@
+libc {
+  PEMU_LIBC_PRIVATE {
+    __libm_frexp_4; __libm_frexp_4f; __libm_frexp_4l; __libm_error_support;
+  }
+}
+libm {
+  PEMU_LIBC_2.2.3 {
+    matherrf; matherrl;
+  }
+}

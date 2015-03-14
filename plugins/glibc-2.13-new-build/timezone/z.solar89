@@ -1,0 +1,17 @@
+define solar89-zones
+Asia/Riyadh89
+Mideast/Riyadh89
+endef
+solar89-zones := $(subst $(nl), ,$(solar89-zones))
+ifdef solar89-zones
+$(addprefix $(dir $(inst_zonedir))zone%/right/,$(solar89-zones)): \
+solar89 $(objpfx)zic leapseconds yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/posix/,$(solar89-zones)): \
+solar89 $(objpfx)zic /dev/null yearistype
+	$(tzcompile)
+$(addprefix $(dir $(inst_zonedir))zone%/,$(solar89-zones)): \
+solar89 $(objpfx)zic $(leapseconds) yearistype
+	$(tzcompile)
+endif
+zonenames := $(zonenames) $(solar89-zones)

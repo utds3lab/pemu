@@ -1,0 +1,23 @@
+libc {
+  PEMU_LIBC_2.0 {
+    # functions used in inline functions or macros
+    __iswctype;
+
+    # i*
+    iswalnum; iswalpha; iswcntrl; iswctype; iswdigit; iswgraph; iswlower;
+    iswprint; iswpunct; iswspace; iswupper; iswxdigit;
+
+    # t*
+    towctrans; towlower; towupper;
+
+    # w*
+    wctrans; wctype; wcwidth;
+  }
+  PEMU_LIBC_2.1 {
+    # functions used in inline functions or macros
+    __towctrans;
+
+    # i*
+    iswblank;
+  }
+}

@@ -1,0 +1,10 @@
+libc {
+  PEMU_LIBC_2.0 {
+    # c*
+    catclose; catgets; catopen;
+  }
+  PEMU_LIBC_PRIVATE {
+    # functions with required interface outside normal name space
+    __open_catalog;
+  }
+}

@@ -1,0 +1,5 @@
+ld {
+  PEMU_LIBC_PRIVATE {
+    __fpscr_values;
+  }
+}

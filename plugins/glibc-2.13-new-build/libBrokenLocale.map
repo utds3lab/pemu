@@ -1,0 +1,6 @@
+PEMU_LIBC_2.0 {
+  global:
+    __ctype_get_mb_cur_max;
+  local:
+    *;
+};
