@@ -24,7 +24,8 @@
 
 long para_array[20];
 
-typedef void (*FUNC)(void*);
+typedef void (*FUNC0)();
+typedef void (*FUNC1)(void*);
 typedef void (*FUNC2)(void*, void *);
 
 
@@ -33,11 +34,12 @@ typedef void (*FUNC3)(void*, void*, void*);
 
 void helper_inst_hook_1(void *func)
 {
+	((FUNC0)func)();
 }
 
 void helper_inst_hook_2(void *func, void *arg1)
 {
-	((FUNC)func)(arg1);
+	((FUNC1)func)(arg1);
 }
 
 void helper_inst_hook_3(void *func, void *arg1, void *arg2)

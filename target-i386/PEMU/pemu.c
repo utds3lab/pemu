@@ -48,10 +48,6 @@ inline void inst_update(char *buf)
 	{
 	   xed_decoded_inst_dump_intel_format(&pemu_inst.PEMU_xedd_g, pemu_inst.PEMU_inst_str, 
 			   sizeof(pemu_inst.PEMU_inst_str), 0);	
-	   //pemu_xed.PEMU_g_xi = xed_decoded_inst_inst(&pemu_xed.PEMU_xedd_g);
-   	   //pemu_xed.PEMU_op = xed_inst_operand(pemu_xed.PEMU_g_xi, 0);
-   	   //pemu_xed.PEMU_op_name = xed_operand_name(pemu_xed.PEMU_op);
-	   //pemu_xed.PEMU_opcode = xed_decoded_inst_get_iclass(&pemu_xed.PEMU_xedd_g);
 	}
 }
 

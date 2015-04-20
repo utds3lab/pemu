@@ -137,7 +137,7 @@ void set_cache_value(long val)
 	current++;
 
    //yang
-   mem_usage += sizeof(long);
+//   mem_usage += sizeof(long);
 }
 
 

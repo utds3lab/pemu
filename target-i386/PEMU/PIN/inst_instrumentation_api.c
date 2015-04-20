@@ -63,7 +63,6 @@ VOID INS_InsertCall(INS ins, IPOINT action, AFUNPTR funptr, ...)
 				num++;
 				break;
 			default://memory address?
-				//printf("%llx\n", val);
 				break;
 		}
 	}
@@ -75,6 +74,6 @@ OUT:
 		set_cache_value(func_args[i]);
 	}
 
-	set_hashTable(pemu_inst.PEMU_inst_pc, ptr);
+	set_hashTable(ins->pc, ptr);
 }
 

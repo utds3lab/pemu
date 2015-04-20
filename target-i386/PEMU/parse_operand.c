@@ -132,10 +132,6 @@ int operand_is_mem(const xed_operand_enum_t op_name, uint32_t* mem_addr,
 			    (unsigned long)
 			    xed_decoded_inst_get_memory_displacement(&pemu_inst.PEMU_xedd_g,
 								     mem_idx);
-#ifdef DEBUG_VMMI
-			if(qemu_log_enabled())
-				qemu_log("mem is (%x, %x) ", base, displacement);
-#endif
 			*mem_addr =
 			    segbase + base + index * scale + displacement;
 

@@ -124,6 +124,7 @@ int disas_basic_block_ex(target_ulong pc_start, struct PEMU_BBL *bbl)
 	}
 	return 0;
 }
+
 static int operand_is_reg(const xed_operand_enum_t op_name, xed_reg_enum_t * reg_id) 
 {
 	switch (op_name) {
@@ -149,6 +150,7 @@ static int operand_is_reg(const xed_operand_enum_t op_name, xed_reg_enum_t * reg
 		} default:return 0;
 	}
 }
+
 static int operand_is_mem(const xed_operand_enum_t op_name, uint32_t* mem_addr, 
 		   int operand_i)
 {
@@ -226,6 +228,7 @@ static int operand_is_mem(const xed_operand_enum_t op_name, uint32_t* mem_addr,
 	}
 
 }
+
 static int operand_is_relbr(const xed_operand_enum_t op_name, uint32_t * branch) 
 {
 	switch (op_name) {

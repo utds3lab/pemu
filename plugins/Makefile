@@ -10,7 +10,7 @@ XED += -L$(XED_PATH)/lib -lxed -lm
 #LIBC += -Wall -shared -Wl,--rpath=/home/XXX/pemu-master/plugins/glibc-2.13-new-build/  /home/XXX/pemu-master/plugins/glibc-2.13-new-build/libc.so -nostdinc
 PEMUAPI = -L./PEMU_API.so
 
-PLUGIN = strace.so inst_count.so
+PLUGIN = strace.so inst_count.so inst_test.so
 
 all: $(PLUGIN)
 	
@@ -22,6 +22,9 @@ strace.so: strace.o
 
 inst_count.so: inst_count.o
 	gcc $(LDFLAGS) ./inst_count.o -o $@ $(XED)
+
+inst_test.so: inst_test.o
+	gcc $(LDFLAGS) ./inst_test.o -o $@ $(XED)
 
 clean:
 	rm -f *.o *.so *.d
